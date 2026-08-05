@@ -72,61 +72,13 @@ const MAKERS = [
   { id:"mitsubishi", name:"三菱",     color:"#8a2a2a" },
 ];
 
-const CATEGORIES = ["軽自動車","コンパクト","セダン","SUV","ミニバン","スポーツ","EV/電動車"];
+const CATEGORIES = ["軽自動車","コンパクト","セダン","SUV","ミニバン","スポーツ","EV/電動車","未分類"];
 const MARKETS = ["国内","グローバル"];
 
 const makerOf = id => MAKERS.find(m=>m.id===id);
 
-const RAW = [
-  { id:1, maker:"nissan", name:"エルグランド", cat:"ミニバン", date:"2026-07-16", type:"フルモデルチェンジ",
-    summary:"約16年ぶりに全面刷新した4代目。第3世代e-POWERとe-4ORCEを全グレードに搭載し、ボディを大型化して上級ミニバン市場での訴求力を高めた。",
-    specs:{ 全長:"4,995mm", 全幅:"1,895mm", ホイールベース:"3,000mm", 価格帯:"689.7〜757.9万円", 発売:"2026年7月16日" },
-    source:"https://global.nissannews.com/ja-JP/releases/260716-01-j", market:"国内" },
-  { id:2, maker:"nissan", name:"テクトン", cat:"SUV", date:"2026-07-09", type:"新型発表",
-    summary:"インドでのワールドプレミアで発表された新型SUV。日産の事業変革における重要モデルと位置づけられている（国内導入時期は今後発表予定）。",
-    specs:{ 発表:"インドにて世界初公開", 発売:"国内時期未定" },
-    source:"https://global.nissannews.com/ja-JP/releases/260709-01-j", market:"グローバル" },
-  { id:3, maker:"nissan", name:"デイズ", cat:"軽自動車", date:"2026-07-27", type:"一部仕様変更",
-    summary:"一部仕様を変更し、発表同日に発売。軽自動車の主力モデルとして継続的な商品改良を実施。",
-    specs:{ 発売:"2026年7月27日" },
-    source:"https://global.nissannews.com/ja-JP/releases/260727-01-j", market:"国内" },
-  { id:4, maker:"toyota", name:"クラウン クロスオーバー", cat:"セダン", date:"2026-07-15", type:"先行公開",
-    summary:"一部改良を予定する新型のデザインを先行公開。正式な発売は2026年9月中旬を予定。",
-    specs:{ 発売予定:"2026年9月中旬" },
-    source:"https://global.toyota/jp/newsroom/toyota/44641170.html", market:"国内" },
-  { id:5, maker:"toyota", name:"ハリアー", cat:"SUV", date:"2026-08-03", type:"一部改良",
-    summary:"一部改良を実施し8月3日に発売。主力SUVとして商品力を継続的に更新。",
-    specs:{ 発売:"2026年8月3日" },
-    source:"https://global.toyota/jp/newsroom/toyota/44698256.html", market:"国内" },
-  { id:6, maker:"toyota", name:"シエンタ", cat:"ミニバン", date:"2026-08-03", type:"一部改良",
-    summary:"一部改良を実施し8月3日に発売。コンパクトミニバンとして使い勝手を継続的に更新。",
-    specs:{ 発売:"2026年8月3日" },
-    source:"https://global.toyota/jp/newsroom/toyota/44698107.html", market:"国内" },
-  { id:7, maker:"toyota", name:"アクア", cat:"コンパクト", date:"2026-07-06", type:"一部改良",
-    summary:"一部改良に合わせてスポーティなGR SPORTグレードを追加し、7月6日に発売。",
-    specs:{ 発売:"2026年7月6日", 追加グレード:"GR SPORT" },
-    source:"https://global.toyota/jp/newsroom/toyota/44600338.html", market:"国内" },
-  { id:8, maker:"toyota", name:"プリウス", cat:"セダン", date:"2026-07-01", type:"一部改良",
-    summary:"一部改良を実施し7月1日に発売。ハイブリッドの基幹モデルとして商品力を更新。",
-    specs:{ 発売:"2026年7月1日" },
-    source:"https://global.toyota/jp/newsroom/toyota/44548404.html", market:"国内" },
-  { id:9, maker:"toyota", name:"ハイランダー", cat:"SUV", date:"2026-08-01", type:"発売",
-    summary:"トヨタの米国工場で生産するSUVを、全国のトヨタ車両販売店で8月1日より発売開始。",
-    specs:{ 発売:"2026年8月1日", 生産:"米国工場" },
-    source:"https://toyota.jp/highlander/", market:"国内" },
-  { id:10, maker:"mazda", name:"MAZDA3 / CX-30", cat:"コンパクト", date:"2026-07-23", type:"商品改良",
-    summary:"両車種を商品改良し、新たなパワートレインを搭載。CX-30には特別仕様車を追加設定。",
-    specs:{ 発売:"2026年7月23日" },
-    source:"https://newsroom.mazda.com/ja/publicity/release/2026/202607/260723a.html", market:"国内" },
-  { id:11, maker:"mazda", name:"ロードスター", cat:"スポーツ", date:"2026-06-26", type:"商品改良",
-    summary:"走りの魅力をさらに深化させる商品改良を実施し、特別仕様車「PS」を新設定。",
-    specs:{ 発売:"2026年6月26日", 特別仕様車:"PS" },
-    source:"https://newsroom.mazda.com/ja/publicity/release/2026/202606/260626a.html", market:"国内" },
-  { id:12, maker:"mazda", name:"フレアクロスオーバー", cat:"軽自動車", date:"2026-06-25", type:"商品改良",
-    summary:"実用性と個性を兼ね備えたデザインへ刷新し、先進安全技術と快適装備を進化させて発売。",
-    specs:{ 発売:"2026年6月25日" },
-    source:"https://newsroom.mazda.com/ja/publicity/release/2026/202606/260625a.html", market:"国内" },
-];
+/* 車種データは data/cars.json から読み込みます（このファイル内にはハードコードしません）。
+   運用担当者は index.html を触らず、data/cars.json だけを編集すれば更新できます。 */
 
 /* ---------------- ユーティリティ ---------------- */
 
@@ -151,9 +103,10 @@ const TYPE_STYLE = {
 
 /* ---------------- コンポーネント ---------------- */
 
-function TopTicker(){
-  const items = [...RAW].sort((a,b)=> a.date < b.date ? 1 : -1).slice(0,8);
+function TopTicker({cars}){
+  const items = [...cars].sort((a,b)=> a.date < b.date ? 1 : -1).slice(0,8);
   const line = items.map(it => `${makerOf(it.maker).name} 「${it.name}」${it.type} (${it.date})`).join("　◆　");
+  if(items.length === 0) return null;
   return (
     <div className="ticker-wrap bg-[var(--ink)] text-[var(--paper)] overflow-hidden border-b-2" style={{borderColor:"var(--tag-yellow)"}}>
       <div className="flex items-center h-9">
@@ -277,6 +230,11 @@ function CarPlate({car, onOpen}){
         <span className="font-display font-700 text-sm tracking-wide" style={{color:maker.color}}>{maker.name}</span>
         <span className="ml-auto text-xs font-mono" style={{color:"#8a8f86"}}>{daysAgo(car.date)}</span>
       </div>
+      {car.auto ? (
+        <div className="text-xs px-2 py-0.5 rounded mb-2 inline-block w-fit font-display font-700" style={{background:"var(--tag-yellow)", color:"var(--ink)"}}>
+          自動検知・未精査
+        </div>
+      ) : null}
       <h3 className="font-display font-800 text-2xl leading-tight mb-1" style={{color:"var(--ink)"}}>{car.name}</h3>
       <div className="flex items-center gap-2 mb-3">
         <span className="text-xs px-2 py-0.5 rounded font-display font-700" style={{background:typeStyle.bg, color:typeStyle.fg}}>{car.type}</span>
@@ -322,6 +280,11 @@ function DetailModal({car, onClose}){
             <span className="font-display font-700" style={{color:maker.color}}>{maker.name}</span>
           </div>
           <h2 className="font-display font-800 text-3xl mb-2">{car.name}</h2>
+          {car.auto ? (
+            <p className="text-xs mb-2 px-2 py-1 rounded inline-block" style={{background:"var(--tag-yellow)", color:"var(--ink)"}}>
+              このエントリーは自動検知されたもので、内容は簡易的な自動生成です。詳細は公式発表ページをご確認ください。
+            </p>
+          ) : null}
           <div className="flex gap-2 mb-4">
             <span className="text-xs px-2 py-0.5 rounded font-display font-700" style={{background:(TYPE_STYLE[car.type]||{}).bg, color:(TYPE_STYLE[car.type]||{}).fg}}>{car.type}</span>
             <span className="text-xs px-2 py-0.5 rounded border" style={{borderColor:"var(--line)"}}>{car.cat}</span>
@@ -359,6 +322,8 @@ function EmptyState(){
 }
 
 function App(){
+  const [cars, setCars] = useState([]);
+  const [loadState, setLoadState] = useState("loading"); // loading | ok | error
   const [query, setQuery] = useState("");
   const [selectedMakers, setSelectedMakers] = useState([]);
   const [selectedCat, setSelectedCat] = useState("");
@@ -366,12 +331,22 @@ function App(){
   const [sortOrder, setSortOrder] = useState("new");
   const [openCar, setOpenCar] = useState(null);
 
+  useEffect(()=>{
+    fetch("./data/cars.json")
+      .then(res=>{
+        if(!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(data=>{ setCars(data); setLoadState("ok"); })
+      .catch(err=>{ console.error("cars.json の読み込みに失敗:", err); setLoadState("error"); });
+  }, []);
+
   const toggleMaker = id => {
     setSelectedMakers(prev => prev.includes(id) ? prev.filter(x=>x!==id) : [...prev, id]);
   };
 
   const filtered = useMemo(()=>{
-    let list = RAW.filter(car=>{
+    let list = cars.filter(car=>{
       if(selectedMakers.length && !selectedMakers.includes(car.maker)) return false;
       if(selectedCat && car.cat !== selectedCat) return false;
       if(selectedMarket && car.market !== selectedMarket) return false;
@@ -395,11 +370,11 @@ function App(){
       return sortOrder === "new" ? (a.date < b.date ? 1 : -1) : (a.date > b.date ? 1 : -1);
     });
     return list;
-  }, [query, selectedMakers, selectedCat, selectedMarket, sortOrder]);
+  }, [cars, query, selectedMakers, selectedCat, selectedMarket, sortOrder]);
 
   return (
     <div className="min-h-screen">
-      <TopTicker />
+      <TopTicker cars={cars} />
       <Header query={query} setQuery={setQuery} />
       <FilterBar
         selectedMakers={selectedMakers}
@@ -413,7 +388,17 @@ function App(){
         resultCount={filtered.length}
       />
       <main className="max-w-6xl mx-auto px-4 md:px-6 pb-16">
-        {filtered.length === 0 ? <EmptyState/> : (
+        {loadState === "loading" ? (
+          <p className="text-center py-20 text-sm" style={{color:"#5b6470"}}>読み込み中...</p>
+        ) : loadState === "error" ? (
+          <div className="text-center py-20">
+            <p className="font-display font-700 text-xl mb-1" style={{color:"var(--alert)"}}>データを読み込めませんでした</p>
+            <p className="text-sm" style={{color:"#5b6470"}}>
+              index.htmlをファイルとして直接開いている場合、ブラウザの制限で data/cars.json を読み込めません。
+              GitHub Pages等、http(s)経由で公開したURLからアクセスしてください。
+            </p>
+          </div>
+        ) : filtered.length === 0 ? <EmptyState/> : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {filtered.map(car => <CarPlate key={car.id} car={car} onOpen={setOpenCar} />)}
           </div>
@@ -421,7 +406,7 @@ function App(){
       </main>
       <footer className="border-t py-6" style={{borderColor:"var(--line)"}}>
         <div className="max-w-6xl mx-auto px-4 md:px-6 flex flex-col md:flex-row justify-between gap-2 text-xs" style={{color:"#8a8f86"}}>
-          <span>掲載メーカー数: {MAKERS.length} ／ 掲載車種数: {RAW.length}（2026年8月5日時点・手動キュレーション）</span>
+          <span>掲載メーカー数: {MAKERS.length} ／ 掲載車種数: {cars.length}（手動キュレーション、data/cars.jsonを更新すると反映されます）</span>
           <span>各社ニュースリリースをもとに要約しています。詳細・正式な仕様は各社公式発表ページをご確認ください。</span>
         </div>
       </footer>
