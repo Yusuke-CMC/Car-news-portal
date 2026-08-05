@@ -1,0 +1,234 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+クルマ速報ボード - 新車情報 監視・自動公開スクリプト
+
+各メーカーの公式ニュースリリースを定期的にチェックし、
+前回実行時から増えた新着記事だけを review_queue.csv に書き出す。
+車種関連キーワードに合致した記事は、カテゴリ/種別/日付/概要を自動で
+組み立てたうえで data/cars.json に直接追記し、ポータルに自動反映する。
+
+※ 自動生成される概要(summary)は記事タイトルをもとにした簡易なものであり、
+  価格・寸法などのスペックは自動取得しない（誤情報を載せないため）。
+  内容を精査したい場合は、あとから data/cars.json を直接編集すればよい。
+
+使い方:
+    pip install feedparser beautifulsoup4 requests
+    python3 monitor.py
+
+    ※ cron 等で1日1回実行する運用を想定。
+    ※ 初回実行時は既存記事が全件「新着」として出力されます（ベースライン作成のため）。
+"""
+
+import csv
+import json
+import os
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+from urllib.parse import urljoin
+
+import feedparser
+import requests
+from bs4 import BeautifulSoup
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.dirname(BASE_DIR)
+SOURCES_PATH = os.path.join(BASE_DIR, "sources.json")
+STATE_PATH = os.path.join(BASE_DIR, "state.json")
+QUEUE_CSV_PATH = os.path.join(BASE_DIR, "review_queue.csv")
+NEW_ENTRIES_JSON_PATH = os.path.join(BASE_DIR, "new_entries_template.json")
+CARS_JSON_PATH = os.path.join(REPO_ROOT, "data", "cars.json")
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CarNewsMonitor/1.0; +local-use)"}
+
+# タイトル中の語から、そのまま type ラベルとして採用する対応表（先に一致した方を優先）
+TYPE_KEYWORD_MAP = [
+    "フルモデルチェンジ", "一部仕様変更", "商品改良", "一部改良",
+    "先行公開", "新型発表", "新型", "発売",
+]
+
+
+def load_json(path, default):
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    return default
+
+
+def save_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def is_relevant(title, keywords):
+    return any(kw in title for kw in keywords)
+
+
+def infer_type(title):
+    """タイトルに含まれるキーワードから種別ラベルを推定する。どれにも合致しなければ「発表」。"""
+    for kw in TYPE_KEYWORD_MAP:
+        if kw in title:
+            return kw
+    return "発表"
+
+
+def parse_date(published_str):
+    """RSSのpublishedを YYYY-MM-DD 形式に変換。パースできない場合は今日の日付。"""
+    if published_str:
+        try:
+            dt = parsedate_to_datetime(published_str)
+            return dt.date().isoformat()
+        except (TypeError, ValueError):
+            pass
+    return datetime.now(timezone.utc).date().isoformat()
+
+
+def fetch_rss(url):
+    """RSS/Atomフィードから記事一覧を取得"""
+    feed = feedparser.parse(url)
+    items = []
+    for e in feed.entries:
+        link = getattr(e, "link", "")
+        title = (getattr(e, "title", "") or "").strip()
+        published = getattr(e, "published", "") or getattr(e, "updated", "")
+        uid = getattr(e, "id", None) or link or title
+        items.append({"uid": uid, "title": title, "url": link, "published": published})
+    return items
+
+
+def fetch_page_links(url):
+    """RSSがないページから、リンクテキストを総当たりで抽出（簡易差分監視用）。
+    ノイズ（ナビゲーションリンク等）も混じるため、relevance_keywords で
+    ある程度絞り込む前提。サイトごとに精度を上げたい場合はここに
+    site固有のCSSセレクタ処理を追加していく。
+    """
+    resp = requests.get(url, headers=HEADERS, timeout=15)
+    resp.raise_for_status()
+    # 日本語サイトでcharsetヘッダーが不正確/欠落している場合に文字化けするため、
+    # レスポンス内容から実際のエンコーディングを推定して上書きする。
+    if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
+        resp.encoding = resp.apparent_encoding
+    soup = BeautifulSoup(resp.text, "html.parser")
+    items = []
+    seen_local = set()
+    for a in soup.find_all("a"):
+        text = (a.get_text() or "").strip()
+        href = a.get("href") or ""
+        if not text or len(text) < 8:
+            continue
+        if href.startswith("#") or href.lower().startswith("javascript:"):
+            continue
+        full_url = urljoin(url, href)
+        key = (text, full_url)
+        if key in seen_local:
+            continue
+        seen_local.add(key)
+        items.append({"uid": full_url, "title": text, "url": full_url, "published": ""})
+    return items
+
+
+def main():
+    config = load_json(SOURCES_PATH, {"sources": [], "relevance_keywords": []})
+    state = load_json(STATE_PATH, {})
+    keywords = config.get("relevance_keywords", [])
+
+    new_rows = []
+    new_entries_for_portal = []
+
+    for src in config["sources"]:
+        maker = src["maker"]
+        label = src.get("maker_label", maker)
+        url = src.get("url", "")
+        stype = src.get("type", "page")
+
+        if not url:
+            print(f"[SKIP] {label}: URL未設定（sources.jsonを編集してください）")
+            continue
+
+        print(f"[CHECK] {label} ({stype}) ...")
+        try:
+            items = fetch_rss(url) if stype == "rss" else fetch_page_links(url)
+        except Exception as e:
+            print(f"  -> 取得失敗: {e}")
+            continue
+
+        seen = set(state.get(maker, []))
+        current_uids = []
+        maker_new_count = 0
+
+        for it in items:
+            uid = it["uid"]
+            current_uids.append(uid)
+            if uid in seen:
+                continue
+            maker_new_count += 1
+            relevant = is_relevant(it["title"], keywords)
+            new_rows.append({
+                "checked_at": datetime.now().isoformat(timespec="seconds"),
+                "maker": label,
+                "type": stype,
+                "published": it["published"],
+                "title": it["title"],
+                "url": it["url"],
+                "relevant": "○" if relevant else "",
+            })
+            if relevant:
+                new_entries_for_portal.append({
+                    "maker": maker,
+                    "name": it["title"],
+                    "cat": "未分類",
+                    "date": parse_date(it["published"]),
+                    "type": infer_type(it["title"]),
+                    "summary": f"{it['title']}（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+                    "specs": {"情報源": "自動検知（詳細未確認）"},
+                    "source": it["url"],
+                    "market": "国内",
+                    "auto": True,
+                })
+
+        state[maker] = list(set(seen) | set(current_uids))
+        print(f"  -> {len(items)}件取得 / 新規 {maker_new_count}件")
+
+    save_json(STATE_PATH, state)
+
+    if new_rows:
+        write_header = not os.path.exists(QUEUE_CSV_PATH)
+        with open(QUEUE_CSV_PATH, "a", newline="", encoding="utf-8-sig") as f:
+            writer = csv.DictWriter(
+                f, fieldnames=["checked_at", "maker", "type", "published", "title", "url", "relevant"]
+            )
+            if write_header:
+                writer.writeheader()
+            writer.writerows(new_rows)
+        print(f"\n{len(new_rows)}件の新着を review_queue.csv に追記しました。")
+    else:
+        print("\n新着はありませんでした。")
+
+    if new_entries_for_portal:
+        # ログとして雛形も残しておく（監査・後からの見直し用）
+        save_json(NEW_ENTRIES_JSON_PATH, new_entries_for_portal)
+
+        # data/cars.json に直接追記して自動公開する
+        cars = load_json(CARS_JSON_PATH, [])
+        existing_ids = [c.get("id", 0) for c in cars]
+        next_id = (max(existing_ids) + 1) if existing_ids else 1
+        existing_sources = {c.get("source") for c in cars if c.get("source")}
+
+        added = 0
+        for entry in new_entries_for_portal:
+            if entry["source"] in existing_sources:
+                continue  # 念のための二重掲載防止
+            entry_with_id = {"id": next_id, **entry}
+            cars.append(entry_with_id)
+            existing_sources.add(entry["source"])
+            next_id += 1
+            added += 1
+
+        if added:
+            save_json(CARS_JSON_PATH, cars)
+            print(f"{added}件を data/cars.json に自動追記しました（自動生成の簡易概要付き）。")
+            print("→ 内容を精査したい場合は、data/cars.json を直接編集してください。")
+
+
+if __name__ == "__main__":
+    main()
