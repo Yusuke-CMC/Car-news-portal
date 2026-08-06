@@ -53,7 +53,7 @@ jobs:
             --title "新車情報を自動掲載しました $(date -u +%Y-%m-%d)" \
             --body-file issue_body.txt
 
-     - name: 実行結果（cars.json・state・履歴）をコミット
+      - name: 実行結果（cars.json・state・履歴）をコミット
         run: |
           git config user.name "car-news-bot"
           git config user.email "actions@users.noreply.github.com"
