@@ -53,10 +53,13 @@ jobs:
             --title "新車情報を自動掲載しました $(date -u +%Y-%m-%d)" \
             --body-file issue_body.txt
 
-      - name: 実行結果（cars.json・state・履歴）をコミット
+     - name: 実行結果（cars.json・state・履歴）をコミット
         run: |
           git config user.name "car-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add cars.json monitor/state.json monitor/review_queue.csv monitor/new_entries_template.json
+          git add cars.json
+          [ -f monitor/state.json ] && git add monitor/state.json
+          [ -f monitor/review_queue.csv ] && git add monitor/review_queue.csv
+          [ -f monitor/new_entries_template.json ] && git add monitor/new_entries_template.json
           git diff --cached --quiet || git commit -m "chore: 新着車種情報を自動掲載 ($(date -u +%Y-%m-%d))"
           git push
