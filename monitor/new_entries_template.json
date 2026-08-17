@@ -1,21 +1,7 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44726960.html",
-    "maker": "toyota",
-    "name": "進化したGR86を発売\n-「86」の系譜を受け継ぎ魅力を強化-",
-    "cat": "未分類",
-    "date": "2026-08-06",
-    "type": "発売",
-    "summary": "進化したGR86を発売\n-「86」の系譜を受け継ぎ魅力を強化-（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/toyota/44726960.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44698459.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "ヤリス クロス GR SPORTグレードを一部改良",
     "cat": "未分類",
@@ -31,6 +17,7 @@
   },
   {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44698256.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "【画像差替】ハリアーを一部改良",
     "cat": "未分類",
@@ -46,6 +33,7 @@
   },
   {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44698107.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "シエンタを一部改良",
     "cat": "未分類",
@@ -61,6 +49,7 @@
   },
   {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44679233.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "コースターを一部改良",
     "cat": "未分類",
@@ -76,6 +65,7 @@
   },
   {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44641170.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "新型クラウン（クロスオーバー）のデザインを先行公開",
     "cat": "未分類",
@@ -91,6 +81,7 @@
   },
   {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44626118.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "カローラ スポーツを一部改良するとともに、特別仕様車 G“Z・ACTIVE ELEGANCE”を設定",
     "cat": "未分類",
@@ -105,37 +96,8 @@
     "auto": true
   },
   {
-    "_uid": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-sao-paulo-race-jpn/text",
-    "maker": "toyota",
-    "name": "WEC 2026年シーズン 第4戦 サンパウロ6時間 決勝\nTOYOTA RACING、厳しい展開が続くレースに",
-    "cat": "未分類",
-    "date": "2026-07-13",
-    "type": "発表",
-    "summary": "WEC 2026年シーズン 第4戦 サンパウロ6時間 決勝\nTOYOTA RACING、厳しい展開が続くレースに（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-sao-paulo-race-jpn/text",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-sao-paulo-preview-jpn/text",
-    "maker": "toyota",
-    "name": "WEC 2026年シーズン 第4戦 サンパウロ6時間 ： プレビュー\nル・マンで優勝を飾ったTOYOTA RACINGがブラジルラウンドへ挑む",
-    "cat": "未分類",
-    "date": "2026-07-06",
-    "type": "発表",
-    "summary": "WEC 2026年シーズン 第4戦 サンパウロ6時間 ： プレビュー\nル・マンで優勝を飾ったTOYOTA RACINGがブラジルラウンドへ挑む（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-sao-paulo-preview-jpn/text",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44600338.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "アクアを一部改良しGR SPORTグレードを追加",
     "cat": "未分類",
@@ -150,22 +112,8 @@
     "auto": true
   },
   {
-    "_uid": "https://toyota.jp/highlander/",
-    "maker": "toyota",
-    "name": "米国生産のハイランダーを全国トヨタ車両販売店で発売",
-    "cat": "未分類",
-    "date": "2026-07-01",
-    "type": "発売",
-    "summary": "米国生産のハイランダーを全国トヨタ車両販売店で発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://toyota.jp/highlander/",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44548404.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "プリウスを一部改良",
     "cat": "未分類",
@@ -181,6 +129,7 @@
   },
   {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44548254.html",
+    "_source_maker": "toyota",
     "maker": "toyota",
     "name": "カローラ クロスを一部改良するとともに、特別仕様車 Z“Adventure”を設定",
     "cat": "未分類",
@@ -195,82 +144,8 @@
     "auto": true
   },
   {
-    "_uid": "https://global.honda/jp/news/2026/4260730-accord.html?from=RSS",
-    "maker": "honda",
-    "name": "「ACCORD」を一部改良し発売",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "一部改良",
-    "summary": "「ACCORD」を一部改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.honda/jp/news/2026/4260730-accord.html?from=RSS",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.honda/jp/news/2026/4260716-n-box.html?from=RSS",
-    "maker": "honda",
-    "name": "「N-BOX」をマイナーモデルチェンジし発売～各タイプの個性を際立たせ、さまざまなライフスタイルに寄り添う価値を提供～",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発売",
-    "summary": "「N-BOX」をマイナーモデルチェンジし発売～各タイプの個性を際立たせ、さまざまなライフスタイルに寄り添う価値を提供～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.honda/jp/news/2026/4260716-n-box.html?from=RSS",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.honda/jp/news/2026/4260709-fit.html?from=RSS",
-    "maker": "honda",
-    "name": "「FIT」をマイナーモデルチェンジし発売～スポーティーなデザインと快適装備を備えた「Z」タイプを設定～",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発売",
-    "summary": "「FIT」をマイナーモデルチェンジし発売～スポーティーなデザインと快適装備を備えた「Z」タイプを設定～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.honda/jp/news/2026/4260709-fit.html?from=RSS",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.honda/jp/news/2026/4260618.html?from=RSS",
-    "maker": "honda",
-    "name": "「N-BOX」改良モデルをホームページで先行公開～N-BOX CUSTOMのフロントフェイスを存在感と迫力のあるデザインに変更～",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "先行公開",
-    "summary": "「N-BOX」改良モデルをホームページで先行公開～N-BOX CUSTOMのフロントフェイスを存在感と迫力のあるデザインに変更～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.honda/jp/news/2026/4260618.html?from=RSS",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.honda/jp/news/2026/4260618-prelude.html?from=RSS",
-    "maker": "honda",
-    "name": "PRELUDEに特別仕様車「2027 Limited Edition」を設定し発売",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発売",
-    "summary": "PRELUDEに特別仕様車「2027 Limited Edition」を設定し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.honda/jp/news/2026/4260618-prelude.html?from=RSS",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.nissannews.com/ja-JP/releases/260716-01-j",
+    "_source_maker": "nissan",
     "maker": "nissan",
     "name": "新型「エルグランド」を発表",
     "cat": "未分類",
@@ -285,37 +160,8 @@
     "auto": true
   },
   {
-    "_uid": "https://global.nissannews.com/ja-JP/releases/260727-01-j",
-    "maker": "nissan",
-    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は27日、「デイズ」を一部仕様変更し、本日より発売します。",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "一部仕様変更",
-    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は27日、「デイズ」を一部仕様変更し、本日より発売します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.nissannews.com/ja-JP/releases/260727-01-j",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.nissannews.com/ja-JP/releases/260722-01-j",
-    "maker": "nissan",
-    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は22日、「日産リーフ NISMO」を発表し、同日より発売します。",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発売",
-    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は22日、「日産リーフ NISMO」を発表し、同日より発売します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.nissannews.com/ja-JP/releases/260722-01-j",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.nissannews.com/ja-JP/releases/260716-01-j",
+    "_source_maker": "nissan",
     "maker": "nissan",
     "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は16日、昨年のJapan Mobility Show2025にて先行公開した新型「エルグランド」を同日より発売すると発表しました。",
     "cat": "未分類",
@@ -331,6 +177,7 @@
   },
   {
     "_uid": "https://global.nissannews.com/ja-JP/releases/260709-01-j",
+    "_source_maker": "nissan",
     "maker": "nissan",
     "name": "日産、新型SUV「テクトン」を発表",
     "cat": "未分類",
@@ -346,6 +193,7 @@
   },
   {
     "_uid": "https://global.nissannews.com/ja-JP/releases/260709-01-j",
+    "_source_maker": "nissan",
     "maker": "nissan",
     "name": "日産自動車株式会社（本社：神奈川県横浜市西区、代表執行役社長兼CEO：イヴァン エスピノーサ）は9日、インドで行われたワールドプレミアにおいて、新型SUV日産「テクトン」を発表しました。これは、日産の変革における重要なマイルストーンであり、日産の将来に向けてインドが果たす重要な役割を示すものです。",
     "cat": "未分類",
@@ -360,217 +208,8 @@
     "auto": true
   },
   {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260730a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.7.30\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型「MAZDA CX-5」が米国IIHS安全性能評価で最高評価を獲得\n                                                                    \n—2026 IIHS最高評価TSP+獲得モデル数で全銘柄中最多(2026年7月時点)—",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "新型",
-    "summary": "2026.7.30\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型「MAZDA CX-5」が米国IIHS安全性能評価で最高評価を獲得\n                                                                    \n—2026 IIHS最高評価TSP+獲得モデル数で全銘柄中最多(2026年7月時点)—（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260730a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260723a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.7.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA3」「MAZDA CX-30」を商品改良\n                                                                    \n－新たなパワートレインを搭載し、「MAZDA CX-30」には特別仕様車を追加－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.7.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA3」「MAZDA CX-30」を商品改良\n                                                                    \n－新たなパワートレインを搭載し、「MAZDA CX-30」には特別仕様車を追加－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260723a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260626a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.6.26\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「マツダ ロードスター」を商品改良\n                                                                    \n－走りの魅力をさらに深化、特別仕様車「PS」を新設定－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.6.26\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「マツダ ロードスター」を商品改良\n                                                                    \n－走りの魅力をさらに深化、特別仕様車「PS」を新設定－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260626a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260625a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.6.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレアクロスオーバー」を商品改良し発売\n                                                                    \n－実用性と個性を兼ね備えたデザインへ刷新し、先進安全技術と快適装備を進化－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.6.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレアクロスオーバー」を商品改良し発売\n                                                                    \n－実用性と個性を兼ね備えたデザインへ刷新し、先進安全技術と快適装備を進化－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260625a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260623a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.6.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「MAZDA CX-5」の受注が好調\n                                                                    \n－発売後約1ヵ月時点での累計受注台数が10,000台超え－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発売",
-    "summary": "2026.6.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「MAZDA CX-5」の受注が好調\n                                                                    \n－発売後約1ヵ月時点での累計受注台数が10,000台超え－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260623a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260528a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.5.28\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムバン」「スクラムワゴン」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し先進安全技術を採用。バンの新グレード「BUSTER TURBO」を設定－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.5.28\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムバン」「スクラムワゴン」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し先進安全技術を採用。バンの新グレード「BUSTER TURBO」を設定－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260528a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260525a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.5.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「マツダ」と「スピングル」のコラボスニーカーを発売\n                                                                    \n－MAZDA × SPINGLE コラボ商品第二弾－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発売",
-    "summary": "2026.5.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「マツダ」と「スピングル」のコラボスニーカーを発売\n                                                                    \n－MAZDA × SPINGLE コラボ商品第二弾－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260525a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260521a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.5.21\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」の販売を開始\n                                                                    \n―日常からレジャーまで、多様なライフスタイルにマツダらしく寄り添う一台―",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "新型",
-    "summary": "2026.5.21\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」の販売を開始\n                                                                    \n―日常からレジャーまで、多様なライフスタイルにマツダらしく寄り添う一台―（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260521a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202603/260319a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.3.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA CX-60」「MAZDA CX-80」を商品改良し発売",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.3.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA CX-60」「MAZDA CX-80」を商品改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202603/260319a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202602/260212a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.2.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムトラック」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し、先進安全技術を採用－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.2.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムトラック」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し、先進安全技術を採用－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202602/260212a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260115a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.1.15\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレア」を商品改良\n                                                                    \n－先進安全技術を採用し、デザインの刷新と快適性・走行性能を向上－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "商品改良",
-    "summary": "2026.1.15\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレア」を商品改良\n                                                                    \n－先進安全技術を採用し、デザインの刷新と快適性・走行性能を向上－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260115a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260112a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.1.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型バッテリーEV 「MAZDA CX-6e」 を世界初公開\n                                                                    \n－電動車ラインアップを拡充し、各地域のニーズにマルチソリューションで柔軟に対応－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "新型",
-    "summary": "2026.1.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型バッテリーEV 「MAZDA CX-6e」 を世界初公開\n                                                                    \n－電動車ラインアップを拡充し、各地域のニーズにマルチソリューションで柔軟に対応－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260112a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260109a.html                                                        ",
-    "maker": "mazda",
-    "name": "2026.1.9\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新塗装色「ネイビーブルーマイカ」を開発\n                                                                    \n－鮮やかかつ深みのある新しい青系色を、新型「CX-5」より順次導入－",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "新型",
-    "summary": "2026.1.9\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新塗装色「ネイビーブルーマイカ」を開発\n                                                                    \n－鮮やかかつ深みのある新しい青系色を、新型「CX-5」より順次導入－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260109a.html                                                        ",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_08_06_162650",
-    "maker": "subaru",
-    "name": "SUBARU　ステラ改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU　ステラ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_08_06_162650",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://www.subaru.co.jp/news/2026_07_30_094952",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」改良モデルを発表",
     "cat": "未分類",
@@ -585,22 +224,8 @@
     "auto": true
   },
   {
-    "_uid": "https://www.subaru.co.jp/news/2026_06_11_112553",
-    "maker": "subaru",
-    "name": "SUBARU　サンバーバンの一部改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "一部改良",
-    "summary": "SUBARU　サンバーバンの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_06_11_112553",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://www.subaru.co.jp/news/2026_06_04_143345",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レヴォーグの一部改良モデルを発表",
     "cat": "未分類",
@@ -616,6 +241,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2026_06_04_143024",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レヴォーグ レイバックの一部改良モデルを発表",
     "cat": "未分類",
@@ -631,6 +257,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2026_05_21_144616",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　フォレスター改良モデルを発表",
     "cat": "未分類",
@@ -645,22 +272,8 @@
     "auto": true
   },
   {
-    "_uid": "https://www.subaru.co.jp/news/2026_04_17_132439",
-    "maker": "subaru",
-    "name": "SUBARU　新型「トレイルシーカー」を「SUBARU×KINTO」で提供開始",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "新型",
-    "summary": "SUBARU　新型「トレイルシーカー」を「SUBARU×KINTO」で提供開始（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_04_17_132439",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://www.subaru.co.jp/news/2026_04_09_145609",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「トレイルシーカー」を発表",
     "cat": "未分類",
@@ -676,6 +289,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2026_04_02_151658",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型バッテリーEV「ゲッタウェイ」を世界初公開",
     "cat": "未分類",
@@ -690,187 +304,8 @@
     "auto": true
   },
   {
-    "_uid": "https://www.subaru.co.jp/news/2026_04_02_160200",
-    "maker": "subaru",
-    "name": "SUBARU　クロストレック特別仕様車「Limited Black」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU　クロストレック特別仕様車「Limited Black」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_04_02_160200",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_03_26_145433",
-    "maker": "subaru",
-    "name": "SUBARU　サンバートラックの一部改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "一部改良",
-    "summary": "SUBARU　サンバートラックの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_03_26_145433",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_01_09_170022",
-    "maker": "subaru",
-    "name": "SUBARU　レヴォーグ・WRX S4特別仕様車「STI Sport R-Black Limited Ⅱ」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU　レヴォーグ・WRX S4特別仕様車「STI Sport R-Black Limited Ⅱ」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_01_09_170022",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_01_09_170228",
-    "maker": "subaru",
-    "name": "SUBARU　インプレッサ特別仕様車「STI Performance Edition」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU　インプレッサ特別仕様車「STI Performance Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_01_09_170228",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_11_13_094744",
-    "maker": "subaru",
-    "name": "SUBARU BRZ特別仕様車「STI Sport TYPE RA」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU BRZ特別仕様車「STI Sport TYPE RA」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_11_13_094744",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_10_30_124843",
-    "maker": "subaru",
-    "name": "SUBARU　クロストレック特別仕様車「WILDERNESS Edition」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU　クロストレック特別仕様車「WILDERNESS Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_10_30_124843",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_10_29_132444",
-    "maker": "subaru",
-    "name": "SUBARU　「ソルテラ」改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU　「ソルテラ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_10_29_132444",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_09_05_142938",
-    "maker": "subaru",
-    "name": "SUBARU BRZ特別仕様車「STI Sport YELLOW EDITION」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU BRZ特別仕様車「STI Sport YELLOW EDITION」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_09_05_142938",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_07_24_130520",
-    "maker": "subaru",
-    "name": "SUBARU フォレスター特別仕様車「Black Selection」を発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU フォレスター特別仕様車「Black Selection」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_07_24_130520",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_07_18_163136",
-    "maker": "subaru",
-    "name": "SUBARU　新型バッテリーEV「アンチャーテッド」を世界初公開",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "新型",
-    "summary": "SUBARU　新型バッテリーEV「アンチャーテッド」を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_07_18_163136",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_07_10_102338",
-    "maker": "subaru",
-    "name": "SUBARU クロストレック改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU クロストレック改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_07_10_102338",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2025_07_10_101627",
-    "maker": "subaru",
-    "name": "SUBARU インプレッサ改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-08-17",
-    "type": "発表",
-    "summary": "SUBARU インプレッサ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2025_07_10_101627",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://www.subaru.co.jp/news/2025_06_12_141532",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「ステラ」を発表",
     "cat": "未分類",
@@ -886,6 +321,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_05_22_175727",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」の一部改良モデルを発表",
     "cat": "未分類",
@@ -901,6 +337,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_04_18_101302",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　バッテリーEV 2台を世界初公開",
     "cat": "未分類",
@@ -916,6 +353,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_04_18_101030",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「アウトバック」を世界初公開",
     "cat": "未分類",
@@ -931,6 +369,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_04_17_164724",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「フォレスター」を発表",
     "cat": "未分類",
@@ -946,6 +385,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_03_13_122344",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU クロストレック特別仕様車「Limited Sun Blaze Edition」を発表",
     "cat": "未分類",
@@ -961,6 +401,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_03_13_121939",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU インプレッサ特別仕様車「ST Black Selection」を発表",
     "cat": "未分類",
@@ -976,6 +417,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_03_13_115253",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レヴォーグ特別仕様車として2つのモデルを発表",
     "cat": "未分類",
@@ -991,6 +433,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2025_01_09_173141",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU BRZ特別仕様車「STI Sport PURPLE EDITION」を発表",
     "cat": "未分類",
@@ -1006,6 +449,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_12_12_115057",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　WRX S4の一部改良モデルを発表",
     "cat": "未分類",
@@ -1021,6 +465,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_12_12_114134",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レヴォーグの一部改良モデルを発表",
     "cat": "未分類",
@@ -1036,6 +481,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_12_12_113441",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レヴォーグ レイバックの一部改良モデルを発表",
     "cat": "未分類",
@@ -1051,6 +497,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_12_12_113136",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　ジャスティの一部改良モデルを発表",
     "cat": "未分類",
@@ -1066,6 +513,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_12_05_160746",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「クロストレック」e-BOXER（ストロングハイブリッド）を発表",
     "cat": "未分類",
@@ -1081,6 +529,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_11_07_142002",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　REXの一部改良モデルを発表",
     "cat": "未分類",
@@ -1096,6 +545,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_11_07_141255",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　サンバーバンの一部改良モデルを発表",
     "cat": "未分類",
@@ -1111,6 +561,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_10_24_122621",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レガシィ アウトバック特別仕様車「30th Anniversary」を公開",
     "cat": "未分類",
@@ -1126,6 +577,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_10_03_123406",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　シフォンの一部改良モデルを発表",
     "cat": "未分類",
@@ -1141,6 +593,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_10_03_122530",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　プレオ プラスの一部改良モデルを発表",
     "cat": "未分類",
@@ -1156,6 +609,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_09_13_134855",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　クロストレックを一部改良",
     "cat": "未分類",
@@ -1171,6 +625,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_09_13_134633",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　インプレッサを一部改良",
     "cat": "未分類",
@@ -1186,6 +641,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_09_06_163340",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レガシィ アウトバックの一部改良モデルを発表",
     "cat": "未分類",
@@ -1201,6 +657,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_07_12_110548",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」改良モデルを発表",
     "cat": "未分類",
@@ -1216,6 +673,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_07_11_121309",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　フォレスター特別仕様車「Urban Selection」を発表",
     "cat": "未分類",
@@ -1231,6 +689,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_04_11_174717",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　フォレスター特別仕様車「STI Sport Black Interior Selection」を発表",
     "cat": "未分類",
@@ -1246,6 +705,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_04_11_174205",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　フォレスター特別仕様車「X-EDITION」・「XT-EDITION」にボディカラー「ガイザーブルー」を設定",
     "cat": "未分類",
@@ -1261,6 +721,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2024_01_12_105245",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　特別仕様車「WRX S4 STI Sport♯」を発表",
     "cat": "未分類",
@@ -1276,6 +737,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_11_17_164127",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「フォレスター」 を世界初公開",
     "cat": "未分類",
@@ -1291,6 +753,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_10_25_154428",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型SUV「レヴォーグ レイバック」を発表",
     "cat": "未分類",
@@ -1306,6 +769,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_10_25_154547",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「ソルテラ」改良モデルを発表",
     "cat": "未分類",
@@ -1321,6 +785,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_10_25_153648",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　フォレスター 特別仕様車 「X-EDITION」を発表",
     "cat": "未分類",
@@ -1336,6 +801,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_10_25_154247",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「レヴォーグ」改良モデルを発表",
     "cat": "未分類",
@@ -1351,6 +817,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_10_25_154032",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「WRX S4」改良モデルを発表",
     "cat": "未分類",
@@ -1366,6 +833,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_09_22_135116",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」一部改良モデルを発表",
     "cat": "未分類",
@@ -1381,6 +849,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_09_07_145107",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「レガシィ アウトバック」の改良モデルを発表",
     "cat": "未分類",
@@ -1396,6 +865,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_08_24_141135",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「フォレスター」 一部改良モデルを発表",
     "cat": "未分類",
@@ -1411,6 +881,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_08_03_151403",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型SUV「LEVORG LAYBACK」ティザー画像を公開",
     "cat": "未分類",
@@ -1426,6 +897,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_07_20_102357",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「レガシィ アウトバック」改良モデルの専用サイトを公開",
     "cat": "未分類",
@@ -1441,6 +913,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_07_03_120245",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU レヴォーグ特別仕様車「Smart Edition」を発表",
     "cat": "未分類",
@@ -1456,6 +929,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_06_20_172015",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU マニュアルトランスミッション車向け「アイサイト」を開発　今秋発表予定のSUBARU BRZ改良モデルに初採用",
     "cat": "未分類",
@@ -1471,6 +945,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_04_20_132329",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「インプレッサ」の価格を発表",
     "cat": "未分類",
@@ -1486,6 +961,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_02_16_172136",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「インプレッサ」 専用サイトを公開",
     "cat": "未分類",
@@ -1501,6 +977,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_01_13_170612",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「インプレッサ」（日本仕様車・プロトタイプ）を初公開",
     "cat": "未分類",
@@ -1516,6 +993,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2023_01_13_170507",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　特別仕様車「レヴォーグSTI Sport♯」を発表",
     "cat": "未分類",
@@ -1531,6 +1009,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_12_22_114506",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　フォレスター特別仕様車「XT-EDITION」を発表",
     "cat": "未分類",
@@ -1546,6 +1025,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_12_01_135725",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「クロストレック」の価格を発表",
     "cat": "未分類",
@@ -1561,6 +1041,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_11_24_164639",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「レヴォーグ」一部改良モデルを発表",
     "cat": "未分類",
@@ -1576,6 +1057,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_11_24_162559",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「WRX S4」一部改良モデルを発表",
     "cat": "未分類",
@@ -1591,6 +1073,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_11_18_165728",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「インプレッサ」 を世界初公開",
     "cat": "未分類",
@@ -1606,6 +1089,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_10_13_183834",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「シフォン」一部改良モデルを発表",
     "cat": "未分類",
@@ -1621,6 +1105,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_09_15_150743",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「CROSSTREK」 を世界初公開",
     "cat": "未分類",
@@ -1636,6 +1121,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_09_08_111846",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「レガシィ アウトバック」一部改良モデルを発表",
     "cat": "未分類",
@@ -1651,6 +1137,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_07_24_135715",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU BRZ特別仕様車「S “10th Anniversary Limited”」を発表",
     "cat": "未分類",
@@ -1666,6 +1153,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_05_26_151055",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」一部改良モデルを発表",
     "cat": "未分類",
@@ -1681,6 +1169,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_04_14_093616",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型BEV「SOLTERRA」（日本仕様車）の価格を発表",
     "cat": "未分類",
@@ -1696,6 +1185,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2022_01_13_124658",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「サンバーバン」および「サンバートラック」大幅改良モデルを発表",
     "cat": "未分類",
@@ -1711,6 +1201,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2021_12_16_172030",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU XV」 一部改良モデルを発表",
     "cat": "未分類",
@@ -1726,6 +1217,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2021_12_16_170623",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「インプレッサ」 一部改良モデルを発表",
     "cat": "未分類",
@@ -1741,6 +1233,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2021_11_25_133325",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「WRX S4」を発表",
     "cat": "未分類",
@@ -1756,6 +1249,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2021_11_25_133106",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「レヴォーグ」一部改良モデルを発表",
     "cat": "未分類",
@@ -1771,6 +1265,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_10_07_11214",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「レガシィ アウトバック」を発表",
     "cat": "未分類",
@@ -1786,6 +1281,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/news/2021_09_30_11088",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「シフォン」一部改良モデルを発表",
     "cat": "未分類",
@@ -1801,6 +1297,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_09_21_10971",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型「アウトバック」がユーロNCAPの2021年安全性能テストで最高評価「ファイブスター」を獲得",
     "cat": "未分類",
@@ -1816,6 +1313,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_09_10_10869",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「WRX」を世界初公開",
     "cat": "未分類",
@@ -1831,6 +1329,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_09_09_10842",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「ステラ」一部改良モデルを発表",
     "cat": "未分類",
@@ -1846,6 +1345,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_09_02_10761",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「レガシィ アウトバック」を初公開",
     "cat": "未分類",
@@ -1861,6 +1361,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_08_19_10617",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU「フォレスター」大幅改良モデルを発表",
     "cat": "未分類",
@@ -1876,6 +1377,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_07_29_10329",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「SUBARU BRZ」を発表",
     "cat": "未分類",
@@ -1891,6 +1393,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_06_17_9937",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU XV特別仕様車「2.0e-L EyeSight Smart Edition」を発表",
     "cat": "未分類",
@@ -1906,6 +1409,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_06_14_9929",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「フォレスター」大幅改良モデルを初公開",
     "cat": "未分類",
@@ -1921,6 +1425,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_05_11_9750",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 2022年に発売する新型EVの名称を「SOLTERRA（ソルテラ）」に決定",
     "cat": "未分類",
@@ -1936,6 +1441,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_04_05_9684",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「SUBARU BRZ」（日本仕様）を公開",
     "cat": "未分類",
@@ -1951,6 +1457,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2021_03_25_9636",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "TOYOTA GAZOO RacingとSUBARU、共同開発の新型車両を公開 「いっしょにいいクルマつくろう！トークセッション」 4月5日にオンラインにて合同開催",
     "cat": "未分類",
@@ -1966,6 +1473,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_12_08_9332",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「シフォン」一部改良モデルを発表",
     "cat": "未分類",
@@ -1981,6 +1489,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_12_07_9322",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「レヴォーグ」が「2020–2021日本カー・オブ・ザ・イヤー」を受賞",
     "cat": "未分類",
@@ -1996,6 +1505,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_12_01_9307",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「プレオ プラス」一部改良モデルを発表",
     "cat": "未分類",
@@ -2011,6 +1521,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_11_18_9247",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「SUBARU BRZ」を世界初公開",
     "cat": "未分類",
@@ -2026,6 +1537,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_10_22_9106",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「フォレスター」改良モデルを発表",
     "cat": "未分類",
@@ -2041,6 +1553,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_10_15_9094",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「レヴォーグ」を発表",
     "cat": "未分類",
@@ -2056,6 +1569,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_10_15_9084",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「レヴォーグ」TVCMを放映開始",
     "cat": "未分類",
@@ -2071,6 +1585,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_10_08_9060",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「インプレッサ」一部改良モデルを発表",
     "cat": "未分類",
@@ -2086,6 +1601,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_09_24_9025",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「ジャスティ」一部改良モデルを発売",
     "cat": "未分類",
@@ -2101,6 +1617,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_09_17_9015",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「インプレッサ」一部改良モデルの先行予約を開始",
     "cat": "未分類",
@@ -2116,6 +1633,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_09_04_9004",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU XV」大幅改良モデルを発表",
     "cat": "未分類",
@@ -2131,6 +1649,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_09_03_8997",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「サンバートラック」「サンバーバン」一部改良モデルを発売",
     "cat": "未分類",
@@ -2146,6 +1665,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_08_27_8948",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「ステラ」一部改良モデルを発売",
     "cat": "未分類",
@@ -2161,6 +1681,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2020_08_20_8925",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「レヴォーグ」先行予約を開始",
     "cat": "未分類",
@@ -2176,6 +1697,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_11_26_8061",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU フォレスター特別仕様車「X-Edition」を発表",
     "cat": "未分類",
@@ -2191,6 +1713,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_11_07_7993",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU レヴォーグ 特別仕様車「2.0GT EyeSight V-SPORT」を発表",
     "cat": "未分類",
@@ -2206,6 +1729,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_11_07_7954",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「サンバーバン」「ディアスワゴン」一部改良モデルを発売",
     "cat": "未分類",
@@ -2221,6 +1745,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_10_23_7915",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "WRX STI 特別仕様車「EJ20 Final Edition」プロトタイプを公開",
     "cat": "未分類",
@@ -2236,6 +1761,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_10_17_7903",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「サンバートラック」一部改良モデルを発売",
     "cat": "未分類",
@@ -2251,6 +1777,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_10_10_7806",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「インプレッサ」大幅改良モデルを発表",
     "cat": "未分類",
@@ -2266,6 +1793,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_10_10_7797",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU XV」改良モデルを発表",
     "cat": "未分類",
@@ -2281,6 +1809,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_09_03_7643",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「レガシィ　アウトバック／B4」一部改良モデルを発表",
     "cat": "未分類",
@@ -2296,6 +1825,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_08_27_7620",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「インプレッサ」大幅改良モデル　専用サイトで事前情報を公開",
     "cat": "未分類",
@@ -2311,6 +1841,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_07_30_7538",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型「レガシィ」・「アウトバック」の米国生産を開始",
     "cat": "未分類",
@@ -2326,6 +1857,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_07_16_7510",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「シフォン」を発表",
     "cat": "未分類",
@@ -2341,6 +1873,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_06_10_7347",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「フォレスター」一部改良モデルを発表",
     "cat": "未分類",
@@ -2356,6 +1889,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_05_14_7217",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「WRX S4/STI」改良モデルを発表",
     "cat": "未分類",
@@ -2371,6 +1905,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_05_07_7176",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU「レヴォーグ」改良モデルを発表",
     "cat": "未分類",
@@ -2386,6 +1921,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_04_18_7137",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型「アウトバック」を世界初公開",
     "cat": "未分類",
@@ -2401,6 +1937,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2019_04_09_7079",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」改良モデルを発表",
     "cat": "未分類",
@@ -2416,6 +1953,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_12_17_6660",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「サンバーバン」を一部改良し発売",
     "cat": "未分類",
@@ -2431,6 +1969,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_12_10_6623",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU シフォン特別仕様車「G Special Sport スマートアシスト」を発売",
     "cat": "未分類",
@@ -2446,6 +1985,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_11_29_6581",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型フォレスターがJNCAP予防安全性能アセスメントで 最高ランク（ASV+++）を獲得",
     "cat": "未分類",
@@ -2461,6 +2001,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_11_27_6561",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　レヴォーグ特別仕様車「1.6GT EyeSight V-SPORT」を発表",
     "cat": "未分類",
@@ -2476,6 +2017,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_11_08_6515",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 「ジャスティ」「ジャスティカスタム」改良モデルを発売",
     "cat": "未分類",
@@ -2491,6 +2033,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_10_15_6401",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型「フォレスター」が2018年度グッドデザイン賞を受賞",
     "cat": "未分類",
@@ -2506,6 +2049,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_10_11_6378",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU XV」改良モデルを発表",
     "cat": "未分類",
@@ -2521,6 +2065,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_10_11_6377",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「インプレッサ」改良モデルを発表",
     "cat": "未分類",
@@ -2536,6 +2081,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_09_14_6250",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「フォレスター」の受注が好調",
     "cat": "未分類",
@@ -2551,6 +2097,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_09_11_6224",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」改良モデルを発表",
     "cat": "未分類",
@@ -2566,6 +2113,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_09_10_6216",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　「レガシィ　アウトバック／B4」改良モデルを発表",
     "cat": "未分類",
@@ -2581,6 +2129,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_07_19_6099",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　WRX STI 特別仕様車 「TYPE RA-R」を500台限定発売",
     "cat": "未分類",
@@ -2596,6 +2145,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_06_20_5987",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「フォレスター」を発表",
     "cat": "未分類",
@@ -2611,6 +2161,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_06_20_5981",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「フォレスター」 TVCM放送開始",
     "cat": "未分類",
@@ -2626,6 +2177,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_05_18_5842",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「フォレスター」 先行予約を開始",
     "cat": "未分類",
@@ -2641,6 +2193,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_05_18_5851",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型フォレスターを恵比寿ショールームで先行展示",
     "cat": "未分類",
@@ -2656,6 +2209,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_05_14_5824",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「サンバートラック」改良モデルを発売",
     "cat": "未分類",
@@ -2671,6 +2225,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_05_08_5758",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 新型3列SUV「ASCENT（アセント）」の米国生産を開始",
     "cat": "未分類",
@@ -2686,6 +2241,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_04_27_5691",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「レヴォーグ」改良モデルを発表",
     "cat": "未分類",
@@ -2701,6 +2257,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_04_27_5690",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「WRX STI/S4」改良モデルを発表",
     "cat": "未分類",
@@ -2716,6 +2273,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2018_02_26_5415",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "インプレッサSPORT/G4 特別仕様車「1.6i-L EyeSight S-style」発表",
     "cat": "未分類",
@@ -2731,6 +2289,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_12_18_5218",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「シフォン」「シフォンカスタム」改良モデルを発売",
     "cat": "未分類",
@@ -2746,6 +2305,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_11_29_5102",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU 北米市場専用新型3列SUV「ASCENT（アセント）」を世界初公開",
     "cat": "未分類",
@@ -2761,6 +2321,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_11_13_5062",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「サンバーバン」「ディアスワゴン」改良モデルを発売",
     "cat": "未分類",
@@ -2776,6 +2337,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_10_25_4932",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "WRX STI 特別仕様車 「S208」を450台限定発売",
     "cat": "未分類",
@@ -2791,6 +2353,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_09_11_4711",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「インプレッサ」改良モデルを発表",
     "cat": "未分類",
@@ -2806,6 +2369,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_09_11_4703",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ」改良モデルを発表",
     "cat": "未分類",
@@ -2821,6 +2385,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_09_04_4680",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「レガシィ　アウトバック／B4」大幅改良モデルを発表",
     "cat": "未分類",
@@ -2836,6 +2401,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_08_07_4588",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「レヴォーグ」・「WRX S4」の受注状況について",
     "cat": "未分類",
@@ -2851,6 +2417,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_08_01_4543",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「ステラ」「ステラカスタム」大幅改良モデルを発売",
     "cat": "未分類",
@@ -2866,6 +2433,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_07_25_4517",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "特別仕様車　フォレスター「Smart Edition」を発表",
     "cat": "未分類",
@@ -2881,6 +2449,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_07_03_4414",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「レヴォーグ」大幅改良モデルを発表",
     "cat": "未分類",
@@ -2896,6 +2465,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_07_03_4413",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「WRX S4」大幅改良モデルを発表",
     "cat": "未分類",
@@ -2911,6 +2481,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_06_29_4403",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「SUBARU XV」の受注状況について",
     "cat": "未分類",
@@ -2926,6 +2497,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_06_05_4245",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「レヴォーグ」「WRX S4」を本年夏に発表  ～進化したアイサイトを搭載し運転負荷を大幅に軽減～",
     "cat": "未分類",
@@ -2941,6 +2513,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_05_24_4173",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「WRX STI」大幅改良モデルを発表",
     "cat": "未分類",
@@ -2956,6 +2529,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_05_09_4065",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU　新型「プレオ プラス」を発売",
     "cat": "未分類",
@@ -2971,6 +2545,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_04_06_3925",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "新型「SUBARU XV」を発表 ～2016年度自動車アセスメント「衝突安全性能評価大賞」を受賞～",
     "cat": "未分類",
@@ -2986,6 +2561,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_03_13_3786",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　フォレスター　改良モデルを発表",
     "cat": "未分類",
@@ -3001,6 +2577,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_03_13_3778",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　CROSSOVER7　改良モデルを発表",
     "cat": "未分類",
@@ -3016,6 +2593,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2017_03_08_3771",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「SUBARU XV」 先行予約を開始",
     "cat": "未分類",
@@ -3031,6 +2609,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_12_13_3372",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「シフォン」を発売 ～衝突回避支援システム「スマートアシストⅢ」を全車標準装備～",
     "cat": "未分類",
@@ -3046,6 +2625,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_12_09_3359",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型インプレッサSPORT/G4が「2016–2017日本カー・オブ・ザ・イヤー」を受賞 ～ 2003年 レガシィ以来 13年ぶり2度目の受賞 ～",
     "cat": "未分類",
@@ -3061,6 +2641,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_12_01_3315",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル「アイサイト」を搭載する新型インプレッサ、レガシィ、フォレスター、レヴォーグ/WRX S4が 2016年度予防安全性能アセスメントで最高ランクを獲得",
     "cat": "未分類",
@@ -3076,6 +2657,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_11_28_3297",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　新型「インプレッサ」 1.6Lエンジン搭載グレードを発売 ～11月28日よりTVCM「愛で選ぶクルマ」クリスマス特別篇を放送開始～",
     "cat": "未分類",
@@ -3091,6 +2673,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_11_15_3206",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　新型「インプレッサ」の受注状況について",
     "cat": "未分類",
@@ -3106,6 +2689,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_11_09_3171",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「ジャスティ」を発表 ～衝突回避支援システム「スマートアシストⅡ」を全車標準装備～",
     "cat": "未分類",
@@ -3121,6 +2705,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_10_13_3045",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「インプレッサ」を発表 ～先行予約期間に約6,000台のご予約～",
     "cat": "未分類",
@@ -3136,6 +2721,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_10_04_2981",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車「WRX S4 tS」を期間限定発売",
     "cat": "未分類",
@@ -3151,6 +2737,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_10_03_2972",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　フォレスター 「Style Modern」を発売 ～BOXERエンジン50周年特別記念車の第六弾～",
     "cat": "未分類",
@@ -3166,6 +2753,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_10_03_2971",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　CROSSOVER 7 「Active Style」を発売 ～BOXERエンジン50周年特別記念車の第五弾～",
     "cat": "未分類",
@@ -3181,6 +2769,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_10_03_2964",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　レヴォーグ 「1.6GT EyeSight Smart Edition」を発表 ～BOXERエンジン50周年特別記念車の第四弾～",
     "cat": "未分類",
@@ -3196,6 +2785,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_09_21_2902",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「インプレッサ」 TVCM放送開始 ～TVCM楽曲にDREAMS COME TRUEの「LOVE LOVE LOVE」を採用～",
     "cat": "未分類",
@@ -3211,6 +2801,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_09_20_2889",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車「SUBARU XV HYBRID tS」を発表 ～SUBARUトレイルジャム in Mt.FUJIにて特別展示～",
     "cat": "未分類",
@@ -3226,6 +2817,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_09_08_2845",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　レガシィ　アウトバック/B4 を改良",
     "cat": "未分類",
@@ -3241,6 +2833,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_09_08_2853",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車「LEGACY B4 SporVita」を300台限定発売 ～イタリアの老舗革製品サプライヤーMARIO LEVI社とのコラボレーション第二弾～",
     "cat": "未分類",
@@ -3256,6 +2849,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_09_08_2849",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　「LEGACY OUTBACK X-ADVANCE」を発表 ～BOXERエンジン50周年特別記念車の第三弾～",
     "cat": "未分類",
@@ -3271,6 +2865,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_09_01_2835",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「インプレッサ」 先行予約を開始 ～国産初の歩行者保護エアバッグと7つの乗員保護エアバッグを全車標準装備～",
     "cat": "未分類",
@@ -3286,6 +2881,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_08_23_2800",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　レヴォーグ「STI Sport」の受注状況について ～ 発売1ヶ月で3,000台超え、レヴォーグ全体の4割を占める受注、好調なスタート ～",
     "cat": "未分類",
@@ -3301,6 +2897,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_07_28_2643",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車「SUBARU XV HYBRID tS」先行予約を開始",
     "cat": "未分類",
@@ -3316,6 +2913,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_07_26_2626",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 新型「インプレッサ」（国内仕様車）を公開  ～　スバル初の歩行者保護エアバッグと、アイサイト(ver.3)を全車に標準装備 ～",
     "cat": "未分類",
@@ -3331,6 +2929,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_07_11_2595",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　「フォレスター Brown Leather Selection」を発表",
     "cat": "未分類",
@@ -3346,6 +2945,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_07_05_2584",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 「SUBARU BRZ」の大幅改良モデルを発表 ～2016年秋に走りのポテンシャルを高めた最上級グレードを追加予定～",
     "cat": "未分類",
@@ -3361,6 +2961,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_06_21_2513",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル ステラを改良　～ステラカスタムに新グレード追加～",
     "cat": "未分類",
@@ -3376,6 +2977,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_05_10_2271",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　「SUBARU XV 2.0i EyeSight Proud Edition」を発表 ～BOXERエンジン50周年特別記念車の第一弾～",
     "cat": "未分類",
@@ -3391,6 +2993,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_04_11_2174",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　WRX S4／STIを改良",
     "cat": "未分類",
@@ -3406,6 +3009,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2016_04_11_2166",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　レヴォーグを改良 ～2016年夏にSTIブランドの新グレード追加予定～",
     "cat": "未分類",
@@ -3421,6 +3025,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_12_10_1559",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　「CROSSOVER 7　Modern Style」を発表 ～お洒落なインテリアにダークブラウン色の新たな仕様を追加～",
     "cat": "未分類",
@@ -3436,6 +3041,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_12_10_1567",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　「レガシィ　アウトバック　Limited　Smart Edition」を発表",
     "cat": "未分類",
@@ -3451,6 +3057,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_12_10_1566",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車　「レヴォーグ　1.6GT EyeSight S-style」を発売",
     "cat": "未分類",
@@ -3466,6 +3073,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_28_1311",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル フォレスター 大幅改良モデルを発売",
     "cat": "未分類",
@@ -3481,6 +3089,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_28_1327",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバルWRX STI 特別仕様車「 S207」を400台限定発売",
     "cat": "未分類",
@@ -3496,6 +3105,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_28_1364",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 特別仕様車 WRX S4 SporVitaを500台限定発売 ～イタリアの老舗皮革製品サプライヤー MARIO LEVI社とのコラボレーションモデル～",
     "cat": "未分類",
@@ -3511,6 +3121,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_28_1319",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU XV／SUBARU XV HYBRID 大幅改良モデルを発売",
     "cat": "未分類",
@@ -3526,6 +3137,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_06_1165",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　フォレスター　大幅改良モデルを公開 ～アイサイト（ver.3）や新開発ヘッドランプ機能など、先進安全装備を採用～",
     "cat": "未分類",
@@ -3541,6 +3153,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_06_1172",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU XV / SUBARU XV HYBRID　大幅改良モデルを公開 ～先進安全装備「アドバンスドセイフティパッケージ」を採用～",
     "cat": "未分類",
@@ -3556,6 +3169,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_10_06_1176",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　インプレッサ　SPORT／G4を改良 ～1.6Lモデルにアイサイト（ver.3）を設定～",
     "cat": "未分類",
@@ -3571,6 +3185,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_09_10_1014",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　レガシィ　アウトバック／B4を改良 ～アドバンスドセイフティパッケージを標準装備～",
     "cat": "未分類",
@@ -3586,6 +3201,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_06_30_11",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "「SUBARU BRZ tS」を300台限定発売",
     "cat": "未分類",
@@ -3601,6 +3217,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_06_30_50",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル WRX S4／STIを改良",
     "cat": "未分類",
@@ -3616,6 +3233,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_06_01_65",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車 「Proud Edition」シリーズをレヴォーグに設定し発売",
     "cat": "未分類",
@@ -3631,6 +3249,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_05_20_72",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル ステラを改良",
     "cat": "未分類",
@@ -3646,6 +3265,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_04_22_113",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "特別仕様車 スバル プレオ プラス「Black Edition」を発売",
     "cat": "未分類",
@@ -3661,6 +3281,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_04_16_120",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　新型　「CROSSOVER 7（クロスオーバーセブン）」を発売",
     "cat": "未分類",
@@ -3676,6 +3297,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_04_16_125",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　レヴォーグを改良",
     "cat": "未分類",
@@ -3691,6 +3313,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_04_14_129",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル　特別仕様車「Proud Edition」シリーズを発表～アイサイト搭載車の予防安全性能アセスメント最高ランク獲得を記念～",
     "cat": "未分類",
@@ -3706,6 +3329,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_04_08_135",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル プレオ プラスを改良",
     "cat": "未分類",
@@ -3721,6 +3345,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_04_03_139",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "スバル 「サンバーバン」および「ディアスワゴン」を改良",
     "cat": "未分類",
@@ -3736,6 +3361,7 @@
   },
   {
     "_uid": "https://www.subaru.co.jp/press/news/2015_02_10_161",
+    "_source_maker": "subaru",
     "maker": "subaru",
     "name": "SUBARU BRZを改良",
     "cat": "未分類",
@@ -3746,6 +3372,150 @@
       "情報源": "自動検知（詳細未確認）"
     },
     "source": "https://www.subaru.co.jp/press/news/2015_02_10_161",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.daihatsu.com/jp/news/2026/20260729-1.html",
+    "_source_maker": "daihatsu",
+    "maker": "daihatsu",
+    "name": "2026/07/29\n製品・技術\n車（モデル）\n軽乗用車「ムーヴ キャンバス」、「ムーヴ」を一部改良するとともに、「ムーヴ キャンバス」に世界観を広げる特別仕様車を設定",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "2026/07/29\n製品・技術\n車（モデル）\n軽乗用車「ムーヴ キャンバス」、「ムーヴ」を一部改良するとともに、「ムーヴ キャンバス」に世界観を広げる特別仕様車を設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.daihatsu.com/jp/news/2026/20260729-1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.daihatsu.com/jp/news/2026/20260715-1.html",
+    "_source_maker": "daihatsu",
+    "maker": "daihatsu",
+    "name": "2026/07/15\n製品・技術\n車（モデル）\n軽クロスオーバー「タフト」を一部改良するとともに、レジャー要素を強めた２種類の特別仕様車を設定",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "2026/07/15\n製品・技術\n車（モデル）\n軽クロスオーバー「タフト」を一部改良するとともに、レジャー要素を強めた２種類の特別仕様車を設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.daihatsu.com/jp/news/2026/20260715-1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.daihatsu.com/jp/news/2026/20260604-1.html",
+    "_source_maker": "daihatsu",
+    "maker": "daihatsu",
+    "name": "2026/06/04\n製品・技術\n車（モデル）\nダイハツ、軽商用車「ハイゼット カーゴ」、「アトレー」を一部改良し、安全性を向上",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "2026/06/04\n製品・技術\n車（モデル）\nダイハツ、軽商用車「ハイゼット カーゴ」、「アトレー」を一部改良し、安全性を向上（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.daihatsu.com/jp/news/2026/20260604-1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.daihatsu.com/jp/news/2026/20260319-1.html",
+    "_source_maker": "daihatsu",
+    "maker": "daihatsu",
+    "name": "2026/03/19\n製品・技術\n車（モデル）\nダイハツ、軽商用車「ハイゼット トラック」を一部改良し、安全性を向上",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "2026/03/19\n製品・技術\n車（モデル）\nダイハツ、軽商用車「ハイゼット トラック」を一部改良し、安全性を向上（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.daihatsu.com/jp/news/2026/20260319-1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.daihatsu.com/jp/news/2026/20260202-1.html",
+    "_source_maker": "daihatsu",
+    "maker": "daihatsu",
+    "name": "2026/02/02\n製品・技術\n車（モデル）\nダイハツ、初の量産BEVとなる「e-ハイゼット カーゴ」、「e-アトレー」を発売",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発売",
+    "summary": "2026/02/02\n製品・技術\n車（モデル）\nダイハツ、初の量産BEVとなる「e-ハイゼット カーゴ」、「e-アトレー」を発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.daihatsu.com/jp/news/2026/20260202-1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260817_2.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年08月17日三菱自動車、オーストラリア、ニュージーランド向け新型バッテリーEV『ASX VR-e』を年内に発売（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026年08月17日三菱自動車、オーストラリア、ニュージーランド向け新型バッテリーEV『ASX VR-e』を年内に発売（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260817_2.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260804_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年08月04日三菱自動車、新型クロスカントリーSUV『パジェロ』で路面を選ばない走破性と上質かつ快適な乗り心地を実現（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026年08月04日三菱自動車、新型クロスカントリーSUV『パジェロ』で路面を選ばない走破性と上質かつ快適な乗り心地を実現（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260804_1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260817_2.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年08月17日三菱自動車、オーストラリア、ニュージーランド向け新型バッテリーEV『ASX VR-e』を年内に発売（別ウィンドウで開く）商品・技術情報",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026年08月17日三菱自動車、オーストラリア、ニュージーランド向け新型バッテリーEV『ASX VR-e』を年内に発売（別ウィンドウで開く）商品・技術情報（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260817_2.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260804_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年08月04日三菱自動車、新型クロスカントリーSUV『パジェロ』で路面を選ばない走破性と上質かつ快適な乗り心地を実現（別ウィンドウで開く）商品・技術情報",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026年08月04日三菱自動車、新型クロスカントリーSUV『パジェロ』で路面を選ばない走破性と上質かつ快適な乗り心地を実現（別ウィンドウで開く）商品・技術情報（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260804_1.html",
     "market": "国内",
     "auto": true
   }

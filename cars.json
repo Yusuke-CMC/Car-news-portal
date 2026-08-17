@@ -1434,5 +1434,245 @@
     "source": "https://www.subaru.co.jp/news/2025_07_10_101627",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 101,
+    "maker": "subaru",
+    "name": "SUBARU　新型「ステラ」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型「ステラ」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_06_12_141532",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 102,
+    "maker": "subaru",
+    "name": "「SUBARU BRZ」の一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "「SUBARU BRZ」の一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_05_22_175727",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 103,
+    "maker": "subaru",
+    "name": "SUBARU　バッテリーEV 2台を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　バッテリーEV 2台を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_04_18_101302",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 104,
+    "maker": "subaru",
+    "name": "SUBARU　新型「アウトバック」を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型「アウトバック」を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_04_18_101030",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 105,
+    "maker": "subaru",
+    "name": "SUBARU　新型「フォレスター」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型「フォレスター」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_04_17_164724",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 106,
+    "maker": "subaru",
+    "name": "SUBARU クロストレック特別仕様車「Limited Sun Blaze Edition」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU クロストレック特別仕様車「Limited Sun Blaze Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_03_13_122344",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 107,
+    "maker": "subaru",
+    "name": "SUBARU インプレッサ特別仕様車「ST Black Selection」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU インプレッサ特別仕様車「ST Black Selection」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_03_13_121939",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 108,
+    "maker": "subaru",
+    "name": "SUBARU　レヴォーグ特別仕様車として2つのモデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　レヴォーグ特別仕様車として2つのモデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_03_13_115253",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 109,
+    "maker": "subaru",
+    "name": "SUBARU BRZ特別仕様車「STI Sport PURPLE EDITION」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU BRZ特別仕様車「STI Sport PURPLE EDITION」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_01_09_173141",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 110,
+    "maker": "subaru",
+    "name": "SUBARU　WRX S4の一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　WRX S4の一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_12_12_115057",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 111,
+    "maker": "subaru",
+    "name": "SUBARU　レヴォーグの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　レヴォーグの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_12_12_114134",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 112,
+    "maker": "subaru",
+    "name": "SUBARU　レヴォーグ レイバックの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　レヴォーグ レイバックの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_12_12_113441",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 113,
+    "maker": "subaru",
+    "name": "SUBARU　ジャスティの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　ジャスティの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_12_12_113136",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 114,
+    "maker": "subaru",
+    "name": "SUBARU　新型「クロストレック」e-BOXER（ストロングハイブリッド）を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型「クロストレック」e-BOXER（ストロングハイブリッド）を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_12_05_160746",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 115,
+    "maker": "subaru",
+    "name": "SUBARU　REXの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　REXの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_11_07_142002",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 116,
+    "maker": "mitsubishi",
+    "name": "2026年08月17日三菱自動車、オーストラリア、ニュージーランド向け新型バッテリーEV『ASX VR-e』を年内に発売（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026年08月17日三菱自動車、オーストラリア、ニュージーランド向け新型バッテリーEV『ASX VR-e』を年内に発売（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260817_2.html",
+    "market": "国内",
+    "auto": true
   }
 ]
