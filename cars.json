@@ -1674,5 +1674,230 @@
     "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260817_2.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 117,
+    "maker": "subaru",
+    "name": "SUBARU　サンバーバンの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　サンバーバンの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_11_07_141255",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 118,
+    "maker": "subaru",
+    "name": "SUBARU　レガシィ アウトバック特別仕様車「30th Anniversary」を公開",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　レガシィ アウトバック特別仕様車「30th Anniversary」を公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_10_24_122621",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 119,
+    "maker": "subaru",
+    "name": "SUBARU　シフォンの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　シフォンの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_10_03_123406",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 120,
+    "maker": "subaru",
+    "name": "SUBARU　プレオ プラスの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　プレオ プラスの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_10_03_122530",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 121,
+    "maker": "subaru",
+    "name": "SUBARU　クロストレックを一部改良",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　クロストレックを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_09_13_134855",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 122,
+    "maker": "subaru",
+    "name": "SUBARU　インプレッサを一部改良",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　インプレッサを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_09_13_134633",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 123,
+    "maker": "subaru",
+    "name": "SUBARU　レガシィ アウトバックの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　レガシィ アウトバックの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_09_06_163340",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 124,
+    "maker": "subaru",
+    "name": "「SUBARU BRZ」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "「SUBARU BRZ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_07_12_110548",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 125,
+    "maker": "subaru",
+    "name": "SUBARU　フォレスター特別仕様車「Urban Selection」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　フォレスター特別仕様車「Urban Selection」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_07_11_121309",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 126,
+    "maker": "subaru",
+    "name": "SUBARU　フォレスター特別仕様車「STI Sport Black Interior Selection」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　フォレスター特別仕様車「STI Sport Black Interior Selection」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_04_11_174717",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 127,
+    "maker": "subaru",
+    "name": "SUBARU　フォレスター特別仕様車「X-EDITION」・「XT-EDITION」にボディカラー「ガイザーブルー」を設定",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　フォレスター特別仕様車「X-EDITION」・「XT-EDITION」にボディカラー「ガイザーブルー」を設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_04_11_174205",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 128,
+    "maker": "subaru",
+    "name": "SUBARU　特別仕様車「WRX S4 STI Sport♯」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　特別仕様車「WRX S4 STI Sport♯」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2024_01_12_105245",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 129,
+    "maker": "subaru",
+    "name": "SUBARU　新型「フォレスター」 を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型「フォレスター」 を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2023_11_17_164127",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 130,
+    "maker": "subaru",
+    "name": "SUBARU　新型SUV「レヴォーグ レイバック」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型SUV「レヴォーグ レイバック」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2023_10_25_154428",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 131,
+    "maker": "subaru",
+    "name": "SUBARU 「ソルテラ」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU 「ソルテラ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2023_10_25_154547",
+    "market": "国内",
+    "auto": true
   }
 ]
