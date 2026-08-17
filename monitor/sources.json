@@ -1,0 +1,15 @@
+{
+  "_note": "type='rss' はRSS配信が確認できたソース。type='page' はRSS未確認のためページ差分監視するソース。url が空欄のメーカーは、各社ニュースリリース一覧URLを調べて設定してください。",
+  "sources": [
+    { "maker": "toyota", "maker_label": "トヨタ", "type": "rss", "url": "https://global.toyota/export/jp/allnews_rss.xml", "note": "全社ニュース配信のため、車種発表以外の記事も多数含まれます。キーワードフィルタ必須。" },
+    { "maker": "honda", "maker_label": "ホンダ", "type": "rss", "url": "https://www.honda.co.jp/rss/auto.xml", "note": "クルマ関連に絞られたフィード。比較的ノイズが少ない。" },
+    { "maker": "nissan", "maker_label": "日産", "type": "page", "url": "https://global.nissannews.com/ja-JP/releases", "note": "RSS配信未確認。一覧ページの差分監視で新着を検知。" },
+    { "maker": "mazda", "maker_label": "マツダ", "type": "page", "url": "https://newsroom.mazda.com/ja/publicity/release/", "note": "RSS配信未確認。一覧ページの差分監視で新着を検知。" },
+    { "maker": "subaru", "maker_label": "スバル", "type": "page", "url": "https://www.subaru.co.jp/news/car.html", "note": "RSS配信未確認。クルマカテゴリの一覧ページを監視。" },
+    { "maker": "suzuki", "maker_label": "スズキ", "type": "rss", "url": "https://www.suzuki.co.jp/release/release.xml", "note": "確認済みRSS。四輪以外（二輪・企業ニュース等）も含まれるためキーワードフィルタ必須。" },
+    { "maker": "daihatsu", "maker_label": "ダイハツ", "type": "page", "url": "", "note": "要確認: ダイハツ公式サイトのニュースリリース一覧URLを調べて設定してください。" },
+    { "maker": "mitsubishi", "maker_label": "三菱", "type": "page", "url": "", "note": "要確認: 三菱自動車公式サイトのニュースリリース一覧URLを調べて設定してください。" },
+    { "maker": "lexus", "maker_label": "レクサス", "type": "page", "url": "", "note": "要確認: レクサス公式サイトのニュースリリース一覧URLを調べて設定してください。" }
+  ],
+  "relevance_keywords": ["新型", "フルモデルチェンジ", "一部改良", "発売", "改良モデル", "商品改良", "特別仕様車", "先行公開", "世界初公開", "OTA", "改良"]
+}
