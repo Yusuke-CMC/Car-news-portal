@@ -41,10 +41,15 @@ CARS_JSON_PATH = os.path.join(REPO_ROOT, "cars.json")
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CarNewsMonitor/1.0; +local-use)"}
 
+# タイトル中の語から、そのまま type ラベルとして採用する対応表（先に一致した方を優先）
 TYPE_KEYWORD_MAP = [
     "フルモデルチェンジ", "一部仕様変更", "商品改良", "一部改良",
     "先行公開", "新型発表", "新型", "発売",
 ]
+
+# 1回の実行・1メーカーあたりcars.jsonに自動追加できる件数の上限。
+# 情報源が想定外に大きなアーカイブだった場合等の暴走防止のための安全装置。
+MAX_NEW_PER_MAKER_PER_RUN = 15
 
 
 def load_json(path, default):
@@ -64,6 +69,7 @@ def is_relevant(title, keywords):
 
 
 def infer_type(title):
+    """タイトルに含まれるキーワードから種別ラベルを推定する。どれにも合致しなければ「発表」。"""
     for kw in TYPE_KEYWORD_MAP:
         if kw in title:
             return kw
@@ -71,6 +77,7 @@ def infer_type(title):
 
 
 def parse_date(published_str):
+    """RSSのpublishedを YYYY-MM-DD 形式に変換。パースできない場合は今日の日付。"""
     if published_str:
         try:
             dt = parsedate_to_datetime(published_str)
@@ -81,6 +88,7 @@ def parse_date(published_str):
 
 
 def fetch_rss(url):
+    """RSS/Atomフィードから記事一覧を取得"""
     feed = feedparser.parse(url)
     items = []
     for e in feed.entries:
@@ -93,8 +101,15 @@ def fetch_rss(url):
 
 
 def fetch_page_links(url):
+    """RSSがないページから、リンクテキストを総当たりで抽出（簡易差分監視用）。
+    ノイズ（ナビゲーションリンク等）も混じるため、relevance_keywords で
+    ある程度絞り込む前提。サイトごとに精度を上げたい場合はここに
+    site固有のCSSセレクタ処理を追加していく。
+    """
     resp = requests.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
+    # 日本語サイトでcharsetヘッダーが不正確/欠落している場合に文字化けするため、
+    # レスポンス内容から実際のエンコーディングを推定して上書きする。
     if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
         resp.encoding = resp.apparent_encoding
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -194,27 +209,45 @@ def main():
         print("\n新着はありませんでした。")
 
     if new_entries_for_portal:
+        # ログとして雛形も残しておく（監査・後からの見直し用）
         save_json(NEW_ENTRIES_JSON_PATH, new_entries_for_portal)
 
+        # cars.json に直接追記して自動公開する
         cars = load_json(CARS_JSON_PATH, [])
         existing_ids = [c.get("id", 0) for c in cars]
         next_id = (max(existing_ids) + 1) if existing_ids else 1
         existing_sources = {c.get("source") for c in cars if c.get("source")}
 
         added = 0
+        added_per_maker = {}
+        skipped_over_cap = {}
         for entry in new_entries_for_portal:
             if entry["source"] in existing_sources:
+                continue  # 念のための二重掲載防止
+
+            maker = entry["maker"]
+            count_so_far = added_per_maker.get(maker, 0)
+            if count_so_far >= MAX_NEW_PER_MAKER_PER_RUN:
+                # 想定外に大量の「新着」が出た場合（アーカイブ全体を含むフィード等）の暴走防止。
+                # 上限を超えた分はcars.jsonに追加せず、review_queue.csvの記録のみに留める。
+                skipped_over_cap[maker] = skipped_over_cap.get(maker, 0) + 1
                 continue
+
             entry_with_id = {"id": next_id, **entry}
             cars.append(entry_with_id)
             existing_sources.add(entry["source"])
             next_id += 1
             added += 1
+            added_per_maker[maker] = count_so_far + 1
 
         if added:
             save_json(CARS_JSON_PATH, cars)
             print(f"{added}件を cars.json に自動追記しました（自動生成の簡易概要付き）。")
             print("→ 内容を精査したい場合は、cars.json を直接編集してください。")
+
+        for maker, skipped_count in skipped_over_cap.items():
+            print(f"[WARNING] {maker}: 1回の実行あたりの上限（{MAX_NEW_PER_MAKER_PER_RUN}件）を超えたため、{skipped_count}件は自動追加しませんでした。")
+            print(f"  -> sources.json の該当ソースが想定外に大量の記事を含んでいる可能性があります。手動で確認してください。")
 
 
 if __name__ == "__main__":
