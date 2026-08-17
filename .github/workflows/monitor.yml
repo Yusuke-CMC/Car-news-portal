@@ -38,22 +38,26 @@ jobs:
 
       - name: 自動掲載した内容をIssueで記録（通知のみ・対応不要）
         if: steps.check.outputs.changed == 'true'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           {
-            echo "本日、以下の新着記事を自動検知し、cars.json に自動追記・自動公開しました。"
+            echo "本日、新着記事を自動検知し、cars.json に自動追記・自動公開しました。"
             echo "対応は不要です。内容を修正したい場合のみ cars.json を直接編集してください。"
             echo
             echo '```json'
-            cat monitor/new_entries_template.json
+            head -c 50000 monitor/new_entries_template.json
+            echo
             echo '```'
+            echo "（件数が多い場合、本文が長すぎるため一部省略しています。全件は cars.json 本体をご確認ください）"
           } > issue_body.txt
           gh issue create \
             --title "新車情報を自動掲載しました $(date -u +%Y-%m-%d)" \
             --body-file issue_body.txt
 
       - name: 実行結果（cars.json・state・履歴）をコミット
+        if: always()
         run: |
           git config user.name "car-news-bot"
           git config user.email "actions@users.noreply.github.com"
