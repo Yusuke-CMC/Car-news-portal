@@ -879,5 +879,560 @@
       "発売": "2026年7月1日"
     },
     "source": "https://global.toyota/jp/newsroom/toyota/44548404.html"
+  },
+  {
+    "id": 64,
+    "maker": "toyota",
+    "name": "進化したGR86を発売\n-「86」の系譜を受け継ぎ魅力を強化-",
+    "cat": "未分類",
+    "date": "2026-08-06",
+    "type": "発売",
+    "summary": "進化したGR86を発売\n-「86」の系譜を受け継ぎ魅力を強化-（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44726960.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 65,
+    "maker": "toyota",
+    "name": "WEC 2026年シーズン 第4戦 サンパウロ6時間 決勝\nTOYOTA RACING、厳しい展開が続くレースに",
+    "cat": "未分類",
+    "date": "2026-07-13",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第4戦 サンパウロ6時間 決勝\nTOYOTA RACING、厳しい展開が続くレースに（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-sao-paulo-race-jpn/text",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 66,
+    "maker": "toyota",
+    "name": "WEC 2026年シーズン 第4戦 サンパウロ6時間 ： プレビュー\nル・マンで優勝を飾ったTOYOTA RACINGがブラジルラウンドへ挑む",
+    "cat": "未分類",
+    "date": "2026-07-06",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第4戦 サンパウロ6時間 ： プレビュー\nル・マンで優勝を飾ったTOYOTA RACINGがブラジルラウンドへ挑む（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-sao-paulo-preview-jpn/text",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 67,
+    "maker": "toyota",
+    "name": "米国生産のハイランダーを全国トヨタ車両販売店で発売",
+    "cat": "未分類",
+    "date": "2026-07-01",
+    "type": "発売",
+    "summary": "米国生産のハイランダーを全国トヨタ車両販売店で発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://toyota.jp/highlander/",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 68,
+    "maker": "honda",
+    "name": "「ACCORD」を一部改良し発売",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "「ACCORD」を一部改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4260730-accord.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 69,
+    "maker": "honda",
+    "name": "「N-BOX」をマイナーモデルチェンジし発売～各タイプの個性を際立たせ、さまざまなライフスタイルに寄り添う価値を提供～",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発売",
+    "summary": "「N-BOX」をマイナーモデルチェンジし発売～各タイプの個性を際立たせ、さまざまなライフスタイルに寄り添う価値を提供～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4260716-n-box.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 70,
+    "maker": "honda",
+    "name": "「FIT」をマイナーモデルチェンジし発売～スポーティーなデザインと快適装備を備えた「Z」タイプを設定～",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発売",
+    "summary": "「FIT」をマイナーモデルチェンジし発売～スポーティーなデザインと快適装備を備えた「Z」タイプを設定～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4260709-fit.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 71,
+    "maker": "honda",
+    "name": "「N-BOX」改良モデルをホームページで先行公開～N-BOX CUSTOMのフロントフェイスを存在感と迫力のあるデザインに変更～",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "先行公開",
+    "summary": "「N-BOX」改良モデルをホームページで先行公開～N-BOX CUSTOMのフロントフェイスを存在感と迫力のあるデザインに変更～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4260618.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 72,
+    "maker": "honda",
+    "name": "PRELUDEに特別仕様車「2027 Limited Edition」を設定し発売",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発売",
+    "summary": "PRELUDEに特別仕様車「2027 Limited Edition」を設定し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4260618-prelude.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 73,
+    "maker": "mazda",
+    "name": "2026.7.30\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型「MAZDA CX-5」が米国IIHS安全性能評価で最高評価を獲得\n                                                                    \n—2026 IIHS最高評価TSP+獲得モデル数で全銘柄中最多(2026年7月時点)—",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026.7.30\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型「MAZDA CX-5」が米国IIHS安全性能評価で最高評価を獲得\n                                                                    \n—2026 IIHS最高評価TSP+獲得モデル数で全銘柄中最多(2026年7月時点)—（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260730a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 74,
+    "maker": "mazda",
+    "name": "2026.7.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA3」「MAZDA CX-30」を商品改良\n                                                                    \n－新たなパワートレインを搭載し、「MAZDA CX-30」には特別仕様車を追加－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.7.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA3」「MAZDA CX-30」を商品改良\n                                                                    \n－新たなパワートレインを搭載し、「MAZDA CX-30」には特別仕様車を追加－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260723a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 75,
+    "maker": "mazda",
+    "name": "2026.6.26\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「マツダ ロードスター」を商品改良\n                                                                    \n－走りの魅力をさらに深化、特別仕様車「PS」を新設定－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.6.26\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「マツダ ロードスター」を商品改良\n                                                                    \n－走りの魅力をさらに深化、特別仕様車「PS」を新設定－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260626a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 76,
+    "maker": "mazda",
+    "name": "2026.6.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレアクロスオーバー」を商品改良し発売\n                                                                    \n－実用性と個性を兼ね備えたデザインへ刷新し、先進安全技術と快適装備を進化－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.6.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレアクロスオーバー」を商品改良し発売\n                                                                    \n－実用性と個性を兼ね備えたデザインへ刷新し、先進安全技術と快適装備を進化－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260625a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 77,
+    "maker": "mazda",
+    "name": "2026.6.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「MAZDA CX-5」の受注が好調\n                                                                    \n－発売後約1ヵ月時点での累計受注台数が10,000台超え－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発売",
+    "summary": "2026.6.23\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「MAZDA CX-5」の受注が好調\n                                                                    \n－発売後約1ヵ月時点での累計受注台数が10,000台超え－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260623a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 78,
+    "maker": "mazda",
+    "name": "2026.5.28\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムバン」「スクラムワゴン」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し先進安全技術を採用。バンの新グレード「BUSTER TURBO」を設定－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.5.28\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムバン」「スクラムワゴン」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し先進安全技術を採用。バンの新グレード「BUSTER TURBO」を設定－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260528a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 79,
+    "maker": "mazda",
+    "name": "2026.5.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「マツダ」と「スピングル」のコラボスニーカーを発売\n                                                                    \n－MAZDA × SPINGLE コラボ商品第二弾－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発売",
+    "summary": "2026.5.25\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        「マツダ」と「スピングル」のコラボスニーカーを発売\n                                                                    \n－MAZDA × SPINGLE コラボ商品第二弾－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260525a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 80,
+    "maker": "mazda",
+    "name": "2026.5.21\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」の販売を開始\n                                                                    \n―日常からレジャーまで、多様なライフスタイルにマツダらしく寄り添う一台―",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026.5.21\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」の販売を開始\n                                                                    \n―日常からレジャーまで、多様なライフスタイルにマツダらしく寄り添う一台―（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202605/260521a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 81,
+    "maker": "mazda",
+    "name": "2026.3.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA CX-60」「MAZDA CX-80」を商品改良し発売",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.3.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「MAZDA CX-60」「MAZDA CX-80」を商品改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202603/260319a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 82,
+    "maker": "mazda",
+    "name": "2026.2.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムトラック」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し、先進安全技術を採用－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.2.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「スクラムトラック」を商品改良し発売\n                                                                    \n－フロントデザインを刷新し、先進安全技術を採用－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202602/260212a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 83,
+    "maker": "mazda",
+    "name": "2026.1.15\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレア」を商品改良\n                                                                    \n－先進安全技術を採用し、デザインの刷新と快適性・走行性能を向上－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "商品改良",
+    "summary": "2026.1.15\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、「フレア」を商品改良\n                                                                    \n－先進安全技術を採用し、デザインの刷新と快適性・走行性能を向上－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260115a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 84,
+    "maker": "mazda",
+    "name": "2026.1.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型バッテリーEV 「MAZDA CX-6e」 を世界初公開\n                                                                    \n－電動車ラインアップを拡充し、各地域のニーズにマルチソリューションで柔軟に対応－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026.1.12\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新型バッテリーEV 「MAZDA CX-6e」 を世界初公開\n                                                                    \n－電動車ラインアップを拡充し、各地域のニーズにマルチソリューションで柔軟に対応－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260112a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 85,
+    "maker": "mazda",
+    "name": "2026.1.9\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新塗装色「ネイビーブルーマイカ」を開発\n                                                                    \n－鮮やかかつ深みのある新しい青系色を、新型「CX-5」より順次導入－",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "2026.1.9\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダ、新塗装色「ネイビーブルーマイカ」を開発\n                                                                    \n－鮮やかかつ深みのある新しい青系色を、新型「CX-5」より順次導入－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202601/260109a.html                                                        ",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 86,
+    "maker": "subaru",
+    "name": "SUBARU　ステラ改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　ステラ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_08_06_162650",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 87,
+    "maker": "subaru",
+    "name": "SUBARU　サンバーバンの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　サンバーバンの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_06_11_112553",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 88,
+    "maker": "subaru",
+    "name": "SUBARU　新型「トレイルシーカー」を「SUBARU×KINTO」で提供開始",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型「トレイルシーカー」を「SUBARU×KINTO」で提供開始（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_04_17_132439",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 89,
+    "maker": "subaru",
+    "name": "SUBARU　クロストレック特別仕様車「Limited Black」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　クロストレック特別仕様車「Limited Black」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_04_02_160200",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 90,
+    "maker": "subaru",
+    "name": "SUBARU　サンバートラックの一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "一部改良",
+    "summary": "SUBARU　サンバートラックの一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_03_26_145433",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 91,
+    "maker": "subaru",
+    "name": "SUBARU　レヴォーグ・WRX S4特別仕様車「STI Sport R-Black Limited Ⅱ」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　レヴォーグ・WRX S4特別仕様車「STI Sport R-Black Limited Ⅱ」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_01_09_170022",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 92,
+    "maker": "subaru",
+    "name": "SUBARU　インプレッサ特別仕様車「STI Performance Edition」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　インプレッサ特別仕様車「STI Performance Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_01_09_170228",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 93,
+    "maker": "subaru",
+    "name": "SUBARU BRZ特別仕様車「STI Sport TYPE RA」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU BRZ特別仕様車「STI Sport TYPE RA」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_11_13_094744",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 94,
+    "maker": "subaru",
+    "name": "SUBARU　クロストレック特別仕様車「WILDERNESS Edition」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　クロストレック特別仕様車「WILDERNESS Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_10_30_124843",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 95,
+    "maker": "subaru",
+    "name": "SUBARU　「ソルテラ」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU　「ソルテラ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_10_29_132444",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 96,
+    "maker": "subaru",
+    "name": "SUBARU BRZ特別仕様車「STI Sport YELLOW EDITION」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU BRZ特別仕様車「STI Sport YELLOW EDITION」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_09_05_142938",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 97,
+    "maker": "subaru",
+    "name": "SUBARU フォレスター特別仕様車「Black Selection」を発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU フォレスター特別仕様車「Black Selection」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_07_24_130520",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 98,
+    "maker": "subaru",
+    "name": "SUBARU　新型バッテリーEV「アンチャーテッド」を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "新型",
+    "summary": "SUBARU　新型バッテリーEV「アンチャーテッド」を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_07_18_163136",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 99,
+    "maker": "subaru",
+    "name": "SUBARU クロストレック改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU クロストレック改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_07_10_102338",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 100,
+    "maker": "subaru",
+    "name": "SUBARU インプレッサ改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-17",
+    "type": "発表",
+    "summary": "SUBARU インプレッサ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2025_07_10_101627",
+    "market": "国内",
+    "auto": true
   }
 ]
