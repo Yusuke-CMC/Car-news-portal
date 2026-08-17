@@ -157,12 +157,11 @@ def main():
             continue
 
         seen = set(state.get(maker, []))
-        current_uids = []
+        newly_seen_uids = set()  # 「関連なし」と判定した記事。今後見なくてよいので即座にseen扱いにする。
         maker_new_count = 0
 
         for it in items:
             uid = it["uid"]
-            current_uids.append(uid)
             if uid in seen:
                 continue
             maker_new_count += 1
@@ -177,7 +176,9 @@ def main():
                 "relevant": "○" if relevant else "",
             })
             if relevant:
+                # 上限を超えて今回追加されなかった場合に備え、uidを持たせておく（seen登録の判断は後段で行う）。
                 new_entries_for_portal.append({
+                    "_uid": uid,
                     "maker": maker,
                     "name": it["title"],
                     "cat": "未分類",
@@ -189,11 +190,12 @@ def main():
                     "market": "国内",
                     "auto": True,
                 })
+            else:
+                # 関連なしと判定した記事は、上限判定を待たずに今すぐseen扱いにしてよい。
+                newly_seen_uids.add(uid)
 
-        state[maker] = list(set(seen) | set(current_uids))
+        state[maker] = list(seen | newly_seen_uids)
         print(f"  -> {len(items)}件取得 / 新規 {maker_new_count}件")
-
-    save_json(STATE_PATH, state)
 
     if new_rows:
         write_header = not os.path.exists(QUEUE_CSV_PATH)
@@ -233,12 +235,17 @@ def main():
                 skipped_over_cap[maker] = skipped_over_cap.get(maker, 0) + 1
                 continue
 
-            entry_with_id = {"id": next_id, **entry}
+            entry_clean = {k: v for k, v in entry.items() if k != "_uid"}
+            entry_with_id = {"id": next_id, **entry_clean}
             cars.append(entry_with_id)
             existing_sources.add(entry["source"])
             next_id += 1
             added += 1
             added_per_maker[maker] = count_so_far + 1
+
+            # 実際にcars.jsonへ追加できた記事のみ、このタイミングでseen扱いにする。
+            # 上限超過でスキップした記事はseenに入れず、次回実行時に再度候補になるようにする。
+            state[maker] = list(set(state.get(maker, [])) | {entry["_uid"]})
 
         if added:
             save_json(CARS_JSON_PATH, cars)
@@ -248,6 +255,8 @@ def main():
         for maker, skipped_count in skipped_over_cap.items():
             print(f"[WARNING] {maker}: 1回の実行あたりの上限（{MAX_NEW_PER_MAKER_PER_RUN}件）を超えたため、{skipped_count}件は自動追加しませんでした。")
             print(f"  -> sources.json の該当ソースが想定外に大量の記事を含んでいる可能性があります。手動で確認してください。")
+
+    save_json(STATE_PATH, state)
 
 
 if __name__ == "__main__":
