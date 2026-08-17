@@ -96,7 +96,8 @@ def fetch_rss(url):
         title = (getattr(e, "title", "") or "").strip()
         published = getattr(e, "published", "") or getattr(e, "updated", "")
         uid = getattr(e, "id", None) or link or title
-        items.append({"uid": uid, "title": title, "url": link, "published": published})
+        categories = [t.get("term", "") for t in getattr(e, "tags", [])] if getattr(e, "tags", None) else []
+        items.append({"uid": uid, "title": title, "url": link, "published": published, "categories": categories})
     return items
 
 
@@ -127,7 +128,7 @@ def fetch_page_links(url):
         if key in seen_local:
             continue
         seen_local.add(key)
-        items.append({"uid": full_url, "title": text, "url": full_url, "published": ""})
+        items.append({"uid": full_url, "title": text, "url": full_url, "published": "", "categories": []})
     return items
 
 
@@ -176,10 +177,14 @@ def main():
                 "relevant": "○" if relevant else "",
             })
             if relevant:
+                effective_maker = maker
+                if maker == "toyota" and "Lexus" in it.get("categories", []):
+                    effective_maker = "lexus"
                 # 上限を超えて今回追加されなかった場合に備え、uidを持たせておく（seen登録の判断は後段で行う）。
                 new_entries_for_portal.append({
                     "_uid": uid,
-                    "maker": maker,
+                    "_source_maker": maker,
+                    "maker": effective_maker,
                     "name": it["title"],
                     "cat": "未分類",
                     "date": parse_date(it["published"]),
@@ -227,25 +232,26 @@ def main():
             if entry["source"] in existing_sources:
                 continue  # 念のための二重掲載防止
 
-            maker = entry["maker"]
-            count_so_far = added_per_maker.get(maker, 0)
+            display_maker = entry["maker"]
+            source_maker = entry["_source_maker"]
+            count_so_far = added_per_maker.get(display_maker, 0)
             if count_so_far >= MAX_NEW_PER_MAKER_PER_RUN:
                 # 想定外に大量の「新着」が出た場合（アーカイブ全体を含むフィード等）の暴走防止。
                 # 上限を超えた分はcars.jsonに追加せず、review_queue.csvの記録のみに留める。
-                skipped_over_cap[maker] = skipped_over_cap.get(maker, 0) + 1
+                skipped_over_cap[display_maker] = skipped_over_cap.get(display_maker, 0) + 1
                 continue
 
-            entry_clean = {k: v for k, v in entry.items() if k != "_uid"}
+            entry_clean = {k: v for k, v in entry.items() if k not in ("_uid", "_source_maker")}
             entry_with_id = {"id": next_id, **entry_clean}
             cars.append(entry_with_id)
             existing_sources.add(entry["source"])
             next_id += 1
             added += 1
-            added_per_maker[maker] = count_so_far + 1
+            added_per_maker[display_maker] = count_so_far + 1
 
-            # 実際にcars.jsonへ追加できた記事のみ、このタイミングでseen扱いにする。
+            # 実際にcars.jsonへ追加できた記事のみ、このタイミングでseen扱いにする（取得元フィードのキーで記録）。
             # 上限超過でスキップした記事はseenに入れず、次回実行時に再度候補になるようにする。
-            state[maker] = list(set(state.get(maker, [])) | {entry["_uid"]})
+            state[source_maker] = list(set(state.get(source_maker, [])) | {entry["_uid"]})
 
         if added:
             save_json(CARS_JSON_PATH, cars)
