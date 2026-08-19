@@ -2124,5 +2124,230 @@
     "source": "https://www.subaru.co.jp/news/2022_12_22_114506",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 147,
+    "maker": "subaru",
+    "name": "SUBARU　新型「クロストレック」の価格を発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "新型",
+    "summary": "SUBARU　新型「クロストレック」の価格を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_12_01_135725",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 148,
+    "maker": "subaru",
+    "name": "SUBARU　「レヴォーグ」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "SUBARU　「レヴォーグ」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_11_24_164639",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 149,
+    "maker": "subaru",
+    "name": "SUBARU　「WRX S4」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "SUBARU　「WRX S4」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_11_24_162559",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 150,
+    "maker": "subaru",
+    "name": "SUBARU　新型「インプレッサ」 を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "新型",
+    "summary": "SUBARU　新型「インプレッサ」 を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_11_18_165728",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 151,
+    "maker": "subaru",
+    "name": "SUBARU　「シフォン」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "SUBARU　「シフォン」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_10_13_183834",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 152,
+    "maker": "subaru",
+    "name": "SUBARU　新型「CROSSTREK」 を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "新型",
+    "summary": "SUBARU　新型「CROSSTREK」 を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_09_15_150743",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 153,
+    "maker": "subaru",
+    "name": "SUBARU　「レガシィ アウトバック」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "SUBARU　「レガシィ アウトバック」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_09_08_111846",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 154,
+    "maker": "subaru",
+    "name": "SUBARU BRZ特別仕様車「S “10th Anniversary Limited”」を発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "発表",
+    "summary": "SUBARU BRZ特別仕様車「S “10th Anniversary Limited”」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_07_24_135715",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 155,
+    "maker": "subaru",
+    "name": "「SUBARU BRZ」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "「SUBARU BRZ」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_05_26_151055",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 156,
+    "maker": "subaru",
+    "name": "SUBARU 新型BEV「SOLTERRA」（日本仕様車）の価格を発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "新型",
+    "summary": "SUBARU 新型BEV「SOLTERRA」（日本仕様車）の価格を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_04_14_093616",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 157,
+    "maker": "subaru",
+    "name": "SUBARU　新型「サンバーバン」および「サンバートラック」大幅改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "新型",
+    "summary": "SUBARU　新型「サンバーバン」および「サンバートラック」大幅改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2022_01_13_124658",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 158,
+    "maker": "subaru",
+    "name": "「SUBARU XV」 一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "「SUBARU XV」 一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2021_12_16_172030",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 159,
+    "maker": "subaru",
+    "name": "SUBARU 「インプレッサ」 一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "SUBARU 「インプレッサ」 一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2021_12_16_170623",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 160,
+    "maker": "subaru",
+    "name": "SUBARU　新型「WRX S4」を発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "新型",
+    "summary": "SUBARU　新型「WRX S4」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2021_11_25_133325",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 161,
+    "maker": "subaru",
+    "name": "SUBARU　「レヴォーグ」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-19",
+    "type": "一部改良",
+    "summary": "SUBARU　「レヴォーグ」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2021_11_25_133106",
+    "market": "国内",
+    "auto": true
   }
 ]
