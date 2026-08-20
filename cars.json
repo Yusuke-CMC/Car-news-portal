@@ -2349,5 +2349,245 @@
     "source": "https://www.subaru.co.jp/news/2021_11_25_133106",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 162,
+    "maker": "nissan",
+    "name": "新型キックス「ROCK CREEK」を発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "新型キックス「ROCK CREEK」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/260820-01-j",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 163,
+    "maker": "subaru",
+    "name": "SUBARU　新型「レガシィ アウトバック」を発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "SUBARU　新型「レガシィ アウトバック」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_10_07_11214",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 164,
+    "maker": "subaru",
+    "name": "SUBARU　「シフォン」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "一部改良",
+    "summary": "SUBARU　「シフォン」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2021_09_30_11088",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 165,
+    "maker": "subaru",
+    "name": "SUBARU 新型「アウトバック」がユーロNCAPの2021年安全性能テストで最高評価「ファイブスター」を獲得",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "SUBARU 新型「アウトバック」がユーロNCAPの2021年安全性能テストで最高評価「ファイブスター」を獲得（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_09_21_10971",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 166,
+    "maker": "subaru",
+    "name": "SUBARU　新型「WRX」を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "SUBARU　新型「WRX」を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_09_10_10869",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 167,
+    "maker": "subaru",
+    "name": "SUBARU　「ステラ」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "一部改良",
+    "summary": "SUBARU　「ステラ」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_09_09_10842",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 168,
+    "maker": "subaru",
+    "name": "SUBARU　新型「レガシィ アウトバック」を初公開",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "SUBARU　新型「レガシィ アウトバック」を初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_09_02_10761",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 169,
+    "maker": "subaru",
+    "name": "SUBARU「フォレスター」大幅改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "発表",
+    "summary": "SUBARU「フォレスター」大幅改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_08_19_10617",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 170,
+    "maker": "subaru",
+    "name": "新型「SUBARU BRZ」を発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "新型「SUBARU BRZ」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_07_29_10329",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 171,
+    "maker": "subaru",
+    "name": "SUBARU XV特別仕様車「2.0e-L EyeSight Smart Edition」を発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "発表",
+    "summary": "SUBARU XV特別仕様車「2.0e-L EyeSight Smart Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_06_17_9937",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 172,
+    "maker": "subaru",
+    "name": "SUBARU　「フォレスター」大幅改良モデルを初公開",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "発表",
+    "summary": "SUBARU　「フォレスター」大幅改良モデルを初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_06_14_9929",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 173,
+    "maker": "subaru",
+    "name": "SUBARU 2022年に発売する新型EVの名称を「SOLTERRA（ソルテラ）」に決定",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "SUBARU 2022年に発売する新型EVの名称を「SOLTERRA（ソルテラ）」に決定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_05_11_9750",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 174,
+    "maker": "subaru",
+    "name": "新型「SUBARU BRZ」（日本仕様）を公開",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "新型「SUBARU BRZ」（日本仕様）を公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_04_05_9684",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 175,
+    "maker": "subaru",
+    "name": "TOYOTA GAZOO RacingとSUBARU、共同開発の新型車両を公開 「いっしょにいいクルマつくろう！トークセッション」 4月5日にオンラインにて合同開催",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "TOYOTA GAZOO RacingとSUBARU、共同開発の新型車両を公開 「いっしょにいいクルマつくろう！トークセッション」 4月5日にオンラインにて合同開催（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2021_03_25_9636",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 176,
+    "maker": "subaru",
+    "name": "SUBARU　「シフォン」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "一部改良",
+    "summary": "SUBARU　「シフォン」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_12_08_9332",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 177,
+    "maker": "subaru",
+    "name": "SUBARU　新型「レヴォーグ」が「2020–2021日本カー・オブ・ザ・イヤー」を受賞",
+    "cat": "未分類",
+    "date": "2026-08-20",
+    "type": "新型",
+    "summary": "SUBARU　新型「レヴォーグ」が「2020–2021日本カー・オブ・ザ・イヤー」を受賞（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_12_07_9322",
+    "market": "国内",
+    "auto": true
   }
 ]
