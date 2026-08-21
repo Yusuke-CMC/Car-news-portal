@@ -996,5 +996,245 @@
     "market": "国内",
     "auto": true,
     "id": 72
+  },
+  {
+    "id": 73,
+    "maker": "subaru",
+    "name": "SUBARU　「プレオ プラス」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「プレオ プラス」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_12_01_9307",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 74,
+    "maker": "subaru",
+    "name": "新型「SUBARU BRZ」を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "新型",
+    "summary": "新型「SUBARU BRZ」を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_11_18_9247",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 75,
+    "maker": "subaru",
+    "name": "SUBARU　「フォレスター」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "発表",
+    "summary": "SUBARU　「フォレスター」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_10_22_9106",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 76,
+    "maker": "subaru",
+    "name": "SUBARU　新型「レヴォーグ」を発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "新型",
+    "summary": "SUBARU　新型「レヴォーグ」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_10_15_9094",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 77,
+    "maker": "subaru",
+    "name": "SUBARU　新型「レヴォーグ」TVCMを放映開始",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "新型",
+    "summary": "SUBARU　新型「レヴォーグ」TVCMを放映開始（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_10_15_9084",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 78,
+    "maker": "subaru",
+    "name": "SUBARU　「インプレッサ」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「インプレッサ」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_10_08_9060",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 79,
+    "maker": "subaru",
+    "name": "SUBARU　「ジャスティ」一部改良モデルを発売",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「ジャスティ」一部改良モデルを発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_09_24_9025",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 80,
+    "maker": "subaru",
+    "name": "SUBARU　「インプレッサ」一部改良モデルの先行予約を開始",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「インプレッサ」一部改良モデルの先行予約を開始（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_09_17_9015",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 81,
+    "maker": "subaru",
+    "name": "「SUBARU XV」大幅改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "発表",
+    "summary": "「SUBARU XV」大幅改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_09_04_9004",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 82,
+    "maker": "subaru",
+    "name": "SUBARU　「サンバートラック」「サンバーバン」一部改良モデルを発売",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「サンバートラック」「サンバーバン」一部改良モデルを発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_09_03_8997",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 83,
+    "maker": "subaru",
+    "name": "SUBARU　「ステラ」一部改良モデルを発売",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「ステラ」一部改良モデルを発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_08_27_8948",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 84,
+    "maker": "subaru",
+    "name": "SUBARU　新型「レヴォーグ」先行予約を開始",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "新型",
+    "summary": "SUBARU　新型「レヴォーグ」先行予約を開始（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2020_08_20_8925",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 85,
+    "maker": "subaru",
+    "name": "SUBARU フォレスター特別仕様車「X-Edition」を発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "発表",
+    "summary": "SUBARU フォレスター特別仕様車「X-Edition」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_11_26_8061",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 86,
+    "maker": "subaru",
+    "name": "SUBARU レヴォーグ 特別仕様車「2.0GT EyeSight V-SPORT」を発表",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "発表",
+    "summary": "SUBARU レヴォーグ 特別仕様車「2.0GT EyeSight V-SPORT」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_11_07_7993",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 87,
+    "maker": "subaru",
+    "name": "SUBARU　「サンバーバン」「ディアスワゴン」一部改良モデルを発売",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "一部改良",
+    "summary": "SUBARU　「サンバーバン」「ディアスワゴン」一部改良モデルを発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_11_07_7954",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 88,
+    "maker": "mitsubishi",
+    "name": "2026年08月21日三菱自動車、クロスオーバーSUV『アウトランダーPHEV』をフィリピンで発売（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-08-21",
+    "type": "発売",
+    "summary": "2026年08月21日三菱自動車、クロスオーバーSUV『アウトランダーPHEV』をフィリピンで発売（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260821_1.html",
+    "market": "国内",
+    "auto": true
   }
 ]
