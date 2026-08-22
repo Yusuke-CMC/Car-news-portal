@@ -1236,5 +1236,230 @@
     "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260821_1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 89,
+    "maker": "subaru",
+    "name": "WRX STI 特別仕様車「EJ20 Final Edition」プロトタイプを公開",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "WRX STI 特別仕様車「EJ20 Final Edition」プロトタイプを公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_10_23_7915",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 90,
+    "maker": "subaru",
+    "name": "SUBARU　「サンバートラック」一部改良モデルを発売",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "一部改良",
+    "summary": "SUBARU　「サンバートラック」一部改良モデルを発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_10_17_7903",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 91,
+    "maker": "subaru",
+    "name": "SUBARU　「インプレッサ」大幅改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "SUBARU　「インプレッサ」大幅改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_10_10_7806",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 92,
+    "maker": "subaru",
+    "name": "「SUBARU XV」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "「SUBARU XV」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_10_10_7797",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 93,
+    "maker": "subaru",
+    "name": "SUBARU　「レガシィ　アウトバック／B4」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "一部改良",
+    "summary": "SUBARU　「レガシィ　アウトバック／B4」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_09_03_7643",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 94,
+    "maker": "subaru",
+    "name": "SUBARU 「インプレッサ」大幅改良モデル　専用サイトで事前情報を公開",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "SUBARU 「インプレッサ」大幅改良モデル　専用サイトで事前情報を公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_08_27_7620",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 95,
+    "maker": "subaru",
+    "name": "SUBARU 新型「レガシィ」・「アウトバック」の米国生産を開始",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "新型",
+    "summary": "SUBARU 新型「レガシィ」・「アウトバック」の米国生産を開始（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_07_30_7538",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 96,
+    "maker": "subaru",
+    "name": "SUBARU　新型「シフォン」を発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "新型",
+    "summary": "SUBARU　新型「シフォン」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_07_16_7510",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 97,
+    "maker": "subaru",
+    "name": "SUBARU　「フォレスター」一部改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "一部改良",
+    "summary": "SUBARU　「フォレスター」一部改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_06_10_7347",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 98,
+    "maker": "subaru",
+    "name": "SUBARU 「WRX S4/STI」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "SUBARU 「WRX S4/STI」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_05_14_7217",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 99,
+    "maker": "subaru",
+    "name": "SUBARU「レヴォーグ」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "SUBARU「レヴォーグ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_05_07_7176",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 100,
+    "maker": "subaru",
+    "name": "SUBARU 新型「アウトバック」を世界初公開",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "新型",
+    "summary": "SUBARU 新型「アウトバック」を世界初公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_04_18_7137",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 101,
+    "maker": "subaru",
+    "name": "「SUBARU BRZ」改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発表",
+    "summary": "「SUBARU BRZ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2019_04_09_7079",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 102,
+    "maker": "subaru",
+    "name": "SUBARU 「サンバーバン」を一部改良し発売",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "一部改良",
+    "summary": "SUBARU 「サンバーバン」を一部改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2018_12_17_6660",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 103,
+    "maker": "subaru",
+    "name": "SUBARU シフォン特別仕様車「G Special Sport スマートアシスト」を発売",
+    "cat": "未分類",
+    "date": "2026-08-22",
+    "type": "発売",
+    "summary": "SUBARU シフォン特別仕様車「G Special Sport スマートアシスト」を発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/press/news/2018_12_10_6623",
+    "market": "国内",
+    "auto": true
   }
 ]
