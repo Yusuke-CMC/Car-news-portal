@@ -1086,5 +1086,20 @@
     "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260827_1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 79,
+    "maker": "toyota",
+    "name": "WEC 2026年シーズン 第5戦 ローン・スター・ル・マン ： プレビュー\nTOYOTA RACING、タイトル獲得に向けて重要なレースに挑む",
+    "cat": "未分類",
+    "date": "2026-08-28",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第5戦 ローン・スター・ル・マン ： プレビュー\nTOYOTA RACING、タイトル獲得に向けて重要なレースに挑む（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-lone-star-le-mans-preview-japanese/text",
+    "market": "国内",
+    "auto": true
   }
 ]
