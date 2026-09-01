@@ -1116,5 +1116,35 @@
     "source": "https://www.daihatsu.com/jp/news/2026/20260831-1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 81,
+    "maker": "toyota",
+    "name": "ルーミーを一部改良",
+    "cat": "未分類",
+    "date": "2026-08-31",
+    "type": "一部改良",
+    "summary": "ルーミーを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44782616.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 82,
+    "maker": "toyota",
+    "name": "「TOYOTA」と「GAZOO Racing」、ライセンシー・OEMパートナーを募集\n-第102回東京インターナショナル・ギフト・ショー秋2026に出展-",
+    "cat": "未分類",
+    "date": "2026-08-31",
+    "type": "発表",
+    "summary": "「TOYOTA」と「GAZOO Racing」、ライセンシー・OEMパートナーを募集\n-第102回東京インターナショナル・ギフト・ショー秋2026に出展-（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/corporate/44716723.html",
+    "market": "国内",
+    "auto": true
   }
 ]

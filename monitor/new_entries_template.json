@@ -1,5 +1,37 @@
 [
   {
+    "_uid": "https://global.toyota/jp/newsroom/toyota/44782616.html",
+    "_source_maker": "toyota",
+    "maker": "toyota",
+    "name": "ルーミーを一部改良",
+    "cat": "未分類",
+    "date": "2026-08-31",
+    "type": "一部改良",
+    "summary": "ルーミーを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44782616.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://global.toyota/jp/newsroom/corporate/44716723.html",
+    "_source_maker": "toyota",
+    "maker": "toyota",
+    "name": "「TOYOTA」と「GAZOO Racing」、ライセンシー・OEMパートナーを募集\n-第102回東京インターナショナル・ギフト・ショー秋2026に出展-",
+    "cat": "未分類",
+    "date": "2026-08-31",
+    "type": "発表",
+    "summary": "「TOYOTA」と「GAZOO Racing」、ライセンシー・OEMパートナーを募集\n-第102回東京インターナショナル・ギフト・ショー秋2026に出展-（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/corporate/44716723.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44698459.html",
     "_source_maker": "toyota",
     "maker": "toyota",
@@ -96,50 +128,18 @@
     "auto": true
   },
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44600338.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "アクアを一部改良しGR SPORTグレードを追加",
+    "_uid": "https://www.subaru.co.jp/news/2026_07_30_094952",
+    "_source_maker": "subaru",
+    "maker": "subaru",
+    "name": "「SUBARU BRZ」改良モデルを発表",
     "cat": "未分類",
-    "date": "2026-07-06",
-    "type": "一部改良",
-    "summary": "アクアを一部改良しGR SPORTグレードを追加（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-07-30",
+    "type": "発表",
+    "summary": "「SUBARU BRZ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/toyota/44600338.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44548404.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "プリウスを一部改良",
-    "cat": "未分類",
-    "date": "2026-07-01",
-    "type": "一部改良",
-    "summary": "プリウスを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/toyota/44548404.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.daihatsu.com/jp/news/2026/20260831-1.html",
-    "_source_maker": "daihatsu",
-    "maker": "daihatsu",
-    "name": "2026/08/31\n製品・技術\n車（モデル）\n軽乗用車「タント」にブラックがアクセントの特別仕様車を設定するとともに、「タント」と小型乗用車「トール」を一部改良",
-    "cat": "未分類",
-    "date": "2026-08-31",
-    "type": "一部改良",
-    "summary": "2026/08/31\n製品・技術\n車（モデル）\n軽乗用車「タント」にブラックがアクセントの特別仕様車を設定するとともに、「タント」と小型乗用車「トール」を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.daihatsu.com/jp/news/2026/20260831-1.html",
+    "source": "https://www.subaru.co.jp/news/2026_07_30_094952",
     "market": "国内",
     "auto": true
   },
