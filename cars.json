@@ -1161,5 +1161,20 @@
     "source": "https://global.toyota/jp/newsroom/lexus/44778635.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 84,
+    "maker": "mitsubishi",
+    "name": "2026年09月02日三菱自動車、新型クロスカントリーSUV『パジェロ』を世界初披露（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-09-02",
+    "type": "新型",
+    "summary": "2026年09月02日三菱自動車、新型クロスカントリーSUV『パジェロ』を世界初披露（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260902_1.html",
+    "market": "国内",
+    "auto": true
   }
 ]
