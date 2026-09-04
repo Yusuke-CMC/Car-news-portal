@@ -1176,5 +1176,35 @@
     "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260902_1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 85,
+    "maker": "toyota",
+    "name": "クラウンを一部改良",
+    "cat": "未分類",
+    "date": "2026-09-03",
+    "type": "一部改良",
+    "summary": "クラウンを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44794014.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 86,
+    "maker": "nissan",
+    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は3日、「エクストレイル」を一部仕様変更し、同日より発売します。",
+    "cat": "未分類",
+    "date": "2026-09-03",
+    "type": "一部仕様変更",
+    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は3日、「エクストレイル」を一部仕様変更し、同日より発売します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/260903-01-j",
+    "market": "国内",
+    "auto": true
   }
 ]
