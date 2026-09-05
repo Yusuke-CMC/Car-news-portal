@@ -1206,5 +1206,20 @@
     "source": "https://global.nissannews.com/ja-JP/releases/260903-01-j",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 87,
+    "maker": "toyota",
+    "name": "プロボックスを一部改良",
+    "cat": "未分類",
+    "date": "2026-09-04",
+    "type": "一部改良",
+    "summary": "プロボックスを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44797107.html",
+    "market": "国内",
+    "auto": true
   }
 ]
