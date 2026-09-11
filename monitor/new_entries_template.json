@@ -1,17 +1,17 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/corporate/44816979.html",
+    "_uid": "https://global.toyota/jp/newsroom/lexus/44779455.html",
     "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "入門用レーシングカート「GR KART」を発売\n-より多くの人が挑戦できるモータースポーツを目指して-",
+    "maker": "lexus",
+    "name": "LEXUS、「LS」を一部改良",
     "cat": "未分類",
     "date": "2026-09-10",
-    "type": "発売",
-    "summary": "入門用レーシングカート「GR KART」を発売\n-より多くの人が挑戦できるモータースポーツを目指して-（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "type": "一部改良",
+    "summary": "LEXUS、「LS」を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/corporate/44816979.html",
+    "source": "https://global.toyota/jp/newsroom/lexus/44779455.html",
     "market": "国内",
     "auto": true
   },
@@ -80,18 +80,66 @@
     "auto": true
   },
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44641170.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "新型クラウン（クロスオーバー）のデザインを先行公開",
+    "_uid": "https://global.nissannews.com/ja-JP/releases/260910-01-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）と日産モータースポーツ＆カスタマイズ株式会社（本社：神奈川県茅ヶ崎市、社長：真田 裕、略称NMC）は、10月7日（水）から9日（金）までの3日間、東京ビッグサイトで開催される「H.C.R.2026 第53回 国際福祉機器展＆フォーラム」に、新型「エルグランド」の福祉車両のコンセプトモデルを含む、ライフケアビークル（福祉車両）3台を出展すると発表しました。",
     "cat": "未分類",
-    "date": "2026-07-15",
-    "type": "先行公開",
-    "summary": "新型クラウン（クロスオーバー）のデザインを先行公開（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-09-10",
+    "type": "新型",
+    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）と日産モータースポーツ＆カスタマイズ株式会社（本社：神奈川県茅ヶ崎市、社長：真田 裕、略称NMC）は、10月7日（水）から9日（金）までの3日間、東京ビッグサイトで開催される「H.C.R.2026 第53回 国際福祉機器展＆フォーラム」に、新型「エルグランド」の福祉車両のコンセプトモデルを含む、ライフケアビークル（福祉車両）3台を出展すると発表しました。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/toyota/44641170.html",
+    "source": "https://global.nissannews.com/ja-JP/releases/260910-01-j",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.subaru.co.jp/news/2026_09_10_092103",
+    "_source_maker": "subaru",
+    "maker": "subaru",
+    "name": "SUBARU　ジャスティ改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-09-10",
+    "type": "発表",
+    "summary": "SUBARU　ジャスティ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_09_10_092103",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.subaru.co.jp/news/2026_09_10_092001",
+    "_source_maker": "subaru",
+    "maker": "subaru",
+    "name": "SUBARU　シフォン改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-09-10",
+    "type": "発表",
+    "summary": "SUBARU　シフォン改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_09_10_092001",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.subaru.co.jp/news/2026_09_10_091857",
+    "_source_maker": "subaru",
+    "maker": "subaru",
+    "name": "SUBARU　プレオ プラス改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-09-10",
+    "type": "発表",
+    "summary": "SUBARU　プレオ プラス改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_09_10_091857",
     "market": "国内",
     "auto": true
   },
