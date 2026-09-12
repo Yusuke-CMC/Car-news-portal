@@ -1,21 +1,5 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/lexus/44779455.html",
-    "_source_maker": "toyota",
-    "maker": "lexus",
-    "name": "LEXUS、「LS」を一部改良",
-    "cat": "未分類",
-    "date": "2026-09-10",
-    "type": "一部改良",
-    "summary": "LEXUS、「LS」を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/lexus/44779455.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44698459.html",
     "_source_maker": "toyota",
     "maker": "toyota",
@@ -80,70 +64,6 @@
     "auto": true
   },
   {
-    "_uid": "https://global.nissannews.com/ja-JP/releases/260910-01-j",
-    "_source_maker": "nissan",
-    "maker": "nissan",
-    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）と日産モータースポーツ＆カスタマイズ株式会社（本社：神奈川県茅ヶ崎市、社長：真田 裕、略称NMC）は、10月7日（水）から9日（金）までの3日間、東京ビッグサイトで開催される「H.C.R.2026 第53回 国際福祉機器展＆フォーラム」に、新型「エルグランド」の福祉車両のコンセプトモデルを含む、ライフケアビークル（福祉車両）3台を出展すると発表しました。",
-    "cat": "未分類",
-    "date": "2026-09-10",
-    "type": "新型",
-    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）と日産モータースポーツ＆カスタマイズ株式会社（本社：神奈川県茅ヶ崎市、社長：真田 裕、略称NMC）は、10月7日（水）から9日（金）までの3日間、東京ビッグサイトで開催される「H.C.R.2026 第53回 国際福祉機器展＆フォーラム」に、新型「エルグランド」の福祉車両のコンセプトモデルを含む、ライフケアビークル（福祉車両）3台を出展すると発表しました。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.nissannews.com/ja-JP/releases/260910-01-j",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_09_10_092103",
-    "_source_maker": "subaru",
-    "maker": "subaru",
-    "name": "SUBARU　ジャスティ改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-09-10",
-    "type": "発表",
-    "summary": "SUBARU　ジャスティ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_09_10_092103",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_09_10_092001",
-    "_source_maker": "subaru",
-    "maker": "subaru",
-    "name": "SUBARU　シフォン改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-09-10",
-    "type": "発表",
-    "summary": "SUBARU　シフォン改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_09_10_092001",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_09_10_091857",
-    "_source_maker": "subaru",
-    "maker": "subaru",
-    "name": "SUBARU　プレオ プラス改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-09-10",
-    "type": "発表",
-    "summary": "SUBARU　プレオ プラス改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_09_10_091857",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://www.subaru.co.jp/news/2026_07_30_094952",
     "_source_maker": "subaru",
     "maker": "subaru",
@@ -156,22 +76,6 @@
       "情報源": "自動検知（詳細未確認）"
     },
     "source": "https://www.subaru.co.jp/news/2026_07_30_094952",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.daihatsu.com/jp/news/2026/20260729-1.html",
-    "_source_maker": "daihatsu",
-    "maker": "daihatsu",
-    "name": "2026/07/29\n製品・技術\n車（モデル）\n軽乗用車「ムーヴ キャンバス」、「ムーヴ」を一部改良するとともに、「ムーヴ キャンバス」に世界観を広げる特別仕様車を設定",
-    "cat": "未分類",
-    "date": "2026-07-29",
-    "type": "一部改良",
-    "summary": "2026/07/29\n製品・技術\n車（モデル）\n軽乗用車「ムーヴ キャンバス」、「ムーヴ」を一部改良するとともに、「ムーヴ キャンバス」に世界観を広げる特別仕様車を設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.daihatsu.com/jp/news/2026/20260729-1.html",
     "market": "国内",
     "auto": true
   }
