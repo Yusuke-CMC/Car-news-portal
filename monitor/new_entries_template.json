@@ -62,21 +62,5 @@
     "source": "https://global.toyota/jp/newsroom/toyota/44679233.html",
     "market": "国内",
     "auto": true
-  },
-  {
-    "_uid": "https://www.subaru.co.jp/news/2026_07_30_094952",
-    "_source_maker": "subaru",
-    "maker": "subaru",
-    "name": "「SUBARU BRZ」改良モデルを発表",
-    "cat": "未分類",
-    "date": "2026-07-30",
-    "type": "発表",
-    "summary": "「SUBARU BRZ」改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.subaru.co.jp/news/2026_07_30_094952",
-    "market": "国内",
-    "auto": true
   }
 ]
