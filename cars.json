@@ -1326,5 +1326,20 @@
     "source": "https://www.subaru.co.jp/news/2026_09_10_091857",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 95,
+    "maker": "nissan",
+    "name": "日産、欧州市場に新型モデルを投入、英国サンダーランド工場で生産を決定",
+    "cat": "未分類",
+    "date": "2026-09-16",
+    "type": "新型",
+    "summary": "日産、欧州市場に新型モデルを投入、英国サンダーランド工場で生産を決定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/260916-01-j",
+    "market": "国内",
+    "auto": true
   }
 ]

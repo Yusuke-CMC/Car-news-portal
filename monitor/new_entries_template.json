@@ -62,5 +62,37 @@
     "source": "https://global.toyota/jp/newsroom/toyota/44679233.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "_uid": "https://global.nissannews.com/ja-JP/releases/260916-01-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "日産、欧州市場に新型モデルを投入、英国サンダーランド工場で生産を決定",
+    "cat": "未分類",
+    "date": "2026-09-16",
+    "type": "新型",
+    "summary": "日産、欧州市場に新型モデルを投入、英国サンダーランド工場で生産を決定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/260916-01-j",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://global.nissannews.com/ja-JP/releases/260916-01-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "日産自動車株式会社は16日、欧州市場に新型モデルとなる「キックスe-POWER」を投入し、操業40周年を迎える英国のサンダーランド工場で生産するため、1億7,000万ポンドを投資すると発表しました。",
+    "cat": "未分類",
+    "date": "2026-09-16",
+    "type": "新型",
+    "summary": "日産自動車株式会社は16日、欧州市場に新型モデルとなる「キックスe-POWER」を投入し、操業40周年を迎える英国のサンダーランド工場で生産するため、1億7,000万ポンドを投資すると発表しました。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/260916-01-j",
+    "market": "国内",
+    "auto": true
   }
 ]
