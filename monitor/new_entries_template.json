@@ -1,17 +1,33 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44834381.html",
+    "_uid": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/6-hours-of-fuji-preview-jpn/text",
     "_source_maker": "toyota",
     "maker": "toyota",
-    "name": "ランドクルーザー“300”シリーズを一部改良",
+    "name": "WEC 2026年シーズン 第6戦 富士6時間レース ： プレビュー\nTOYOTA RACING、ホームでの勝利を狙う",
     "cat": "未分類",
-    "date": "2026-09-16",
-    "type": "一部改良",
-    "summary": "ランドクルーザー“300”シリーズを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-09-17",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第6戦 富士6時間レース ： プレビュー\nTOYOTA RACING、ホームでの勝利を狙う（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/toyota/44834381.html",
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/6-hours-of-fuji-preview-jpn/text",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://global.toyota/jp/newsroom/lexus/44827680.html",
+    "_source_maker": "toyota",
+    "maker": "lexus",
+    "name": "LEXUS、ISに特別仕様車“F SPORT Mode Black VI”を設定するとともに、一部改良を実施",
+    "cat": "未分類",
+    "date": "2026-09-17",
+    "type": "一部改良",
+    "summary": "LEXUS、ISに特別仕様車“F SPORT Mode Black VI”を設定するとともに、一部改良を実施（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/lexus/44827680.html",
     "market": "国内",
     "auto": true
   },
@@ -76,6 +92,70 @@
       "情報源": "自動検知（詳細未確認）"
     },
     "source": "https://global.toyota/jp/newsroom/toyota/44679233.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.subaru.co.jp/news/2026_09_17_104044",
+    "_source_maker": "subaru",
+    "maker": "subaru",
+    "name": "SUBARU　クロストレック改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-09-17",
+    "type": "発表",
+    "summary": "SUBARU　クロストレック改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_09_17_104044",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.subaru.co.jp/news/2026_09_17_104236",
+    "_source_maker": "subaru",
+    "maker": "subaru",
+    "name": "SUBARU　インプレッサ改良モデルを発表",
+    "cat": "未分類",
+    "date": "2026-09-17",
+    "type": "発表",
+    "summary": "SUBARU　インプレッサ改良モデルを発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.subaru.co.jp/news/2026_09_17_104236",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260917_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年09月17日三菱自動車、軽商用EV『ミニキャブ EV』を一部改良（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-09-17",
+    "type": "一部改良",
+    "summary": "2026年09月17日三菱自動車、軽商用EV『ミニキャブ EV』を一部改良（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260917_1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260917_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年09月17日三菱自動車、軽商用EV『ミニキャブ EV』を一部改良（別ウィンドウで開く）商品・技術情報",
+    "cat": "未分類",
+    "date": "2026-09-17",
+    "type": "一部改良",
+    "summary": "2026年09月17日三菱自動車、軽商用EV『ミニキャブ EV』を一部改良（別ウィンドウで開く）商品・技術情報（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20260917_1.html",
     "market": "国内",
     "auto": true
   }
