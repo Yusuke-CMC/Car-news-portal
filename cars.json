@@ -1446,5 +1446,20 @@
     "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/6-hours-of-fuji-activation-jpn/text",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 103,
+    "maker": "nissan",
+    "name": "日産自動車、米国向け新型「ローグ ハイブリッド」を発表",
+    "cat": "未分類",
+    "date": "2026-09-21",
+    "type": "新型",
+    "summary": "日産自動車、米国向け新型「ローグ ハイブリッド」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/260921-01-j",
+    "market": "国内",
+    "auto": true
   }
 ]
