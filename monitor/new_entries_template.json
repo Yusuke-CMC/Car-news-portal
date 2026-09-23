@@ -62,37 +62,5 @@
     "source": "https://global.toyota/jp/newsroom/toyota/44679233.html",
     "market": "国内",
     "auto": true
-  },
-  {
-    "_uid": "https://global.nissannews.com/ja-JP/releases/260921-01-j",
-    "_source_maker": "nissan",
-    "maker": "nissan",
-    "name": "日産自動車、米国向け新型「ローグ ハイブリッド」を発表",
-    "cat": "未分類",
-    "date": "2026-09-21",
-    "type": "新型",
-    "summary": "日産自動車、米国向け新型「ローグ ハイブリッド」を発表（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.nissannews.com/ja-JP/releases/260921-01-j",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.nissannews.com/ja-JP/releases/260921-01-j",
-    "_source_maker": "nissan",
-    "maker": "nissan",
-    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は21日、米国で新型「ローグ ハイブリッド」を発表しました。",
-    "cat": "未分類",
-    "date": "2026-09-21",
-    "type": "新型",
-    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は21日、米国で新型「ローグ ハイブリッド」を発表しました。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.nissannews.com/ja-JP/releases/260921-01-j",
-    "market": "国内",
-    "auto": true
   }
 ]
