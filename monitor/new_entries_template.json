@@ -1,37 +1,5 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/lexus/44825481.html",
-    "_source_maker": "toyota",
-    "maker": "lexus",
-    "name": "LEXUS、「GX」を一部改良",
-    "cat": "未分類",
-    "date": "2026-09-24",
-    "type": "一部改良",
-    "summary": "LEXUS、「GX」を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/lexus/44825481.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.toyota/jp/newsroom/corporate/44852300.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "イマーシブ・ミュージアム\n「THE MOVEUM YOKOHAMA by TOYOTA GROUP」\n印象派モネと日本の浮世絵をテーマにした新コンテンツで2026年10月24日（土）にリニューアルオープン\n-リニューアルオープンに先駆けて本日より早割チケット販売を開始-",
-    "cat": "未分類",
-    "date": "2026-09-24",
-    "type": "発表",
-    "summary": "イマーシブ・ミュージアム\n「THE MOVEUM YOKOHAMA by TOYOTA GROUP」\n印象派モネと日本の浮世絵をテーマにした新コンテンツで2026年10月24日（土）にリニューアルオープン\n-リニューアルオープンに先駆けて本日より早割チケット販売を開始-（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/corporate/44852300.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
     "_uid": "https://global.toyota/jp/newsroom/toyota/44698459.html",
     "_source_maker": "toyota",
     "maker": "toyota",
@@ -60,38 +28,6 @@
       "情報源": "自動検知（詳細未確認）"
     },
     "source": "https://global.toyota/jp/newsroom/toyota/44698256.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44698107.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "シエンタを一部改良",
-    "cat": "未分類",
-    "date": "2026-08-03",
-    "type": "一部改良",
-    "summary": "シエンタを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/toyota/44698107.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202609/260924a.html                                                        ",
-    "_source_maker": "mazda",
-    "maker": "mazda",
-    "name": "2026.9.24\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダとBE@RBRICKが初コラボレーション、ル・マン優勝35周年記念「BE@RBRICK × MAZDA 787B」を発売",
-    "cat": "未分類",
-    "date": "2026-09-25",
-    "type": "発売",
-    "summary": "2026.9.24\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        マツダとBE@RBRICKが初コラボレーション、ル・マン優勝35周年記念「BE@RBRICK × MAZDA 787B」を発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202609/260924a.html                                                        ",
     "market": "国内",
     "auto": true
   }
