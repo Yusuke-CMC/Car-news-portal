@@ -1521,5 +1521,20 @@
     "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202609/260924a.html                                                        ",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 108,
+    "maker": "toyota",
+    "name": "WEC 2026年シーズン 第6戦 ホーム富士6時間レース ： 決勝\nTOYOTA RACING、富士で劇的な勝利を挙げる",
+    "cat": "未分類",
+    "date": "2026-09-28",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第6戦 ホーム富士6時間レース ： 決勝\nTOYOTA RACING、富士で劇的な勝利を挙げる（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-fuji-race-2/text",
+    "market": "国内",
+    "auto": true
   }
 ]

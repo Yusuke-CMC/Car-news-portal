@@ -1,33 +1,17 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44698459.html",
+    "_uid": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-fuji-race-2/text",
     "_source_maker": "toyota",
     "maker": "toyota",
-    "name": "ヤリス クロス GR SPORTグレードを一部改良",
+    "name": "WEC 2026年シーズン 第6戦 ホーム富士6時間レース ： 決勝\nTOYOTA RACING、富士で劇的な勝利を挙げる",
     "cat": "未分類",
-    "date": "2026-08-03",
-    "type": "一部改良",
-    "summary": "ヤリス クロス GR SPORTグレードを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-09-28",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第6戦 ホーム富士6時間レース ： 決勝\nTOYOTA RACING、富士で劇的な勝利を挙げる（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/toyota/44698459.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44698256.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "【画像差替】ハリアーを一部改良",
-    "cat": "未分類",
-    "date": "2026-08-03",
-    "type": "一部改良",
-    "summary": "【画像差替】ハリアーを一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/toyota/44698256.html",
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-fuji-race-2/text",
     "market": "国内",
     "auto": true
   }
