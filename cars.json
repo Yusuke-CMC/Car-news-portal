@@ -1551,5 +1551,20 @@
     "source": "https://global.toyota/jp/newsroom/lexus/44845649.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 110,
+    "maker": "lexus",
+    "name": "LEXUS、「LX」を一部改良するとともに、“F SPORT”を追加設定",
+    "cat": "未分類",
+    "date": "2026-10-01",
+    "type": "一部改良",
+    "summary": "LEXUS、「LX」を一部改良するとともに、“F SPORT”を追加設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/lexus/44840614.html",
+    "market": "国内",
+    "auto": true
   }
 ]
