@@ -1,17 +1,33 @@
 [
   {
-    "_uid": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-preview/text",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "WEC 2026年シーズン 第7戦 バルセロナ6時間 ： プレビュー\nTOYOTA RACING、タイトル獲得に向け重要な一戦に挑む",
+    "_uid": "https://global.nissannews.com/ja-JP/releases/261014-00-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "新型「ローグ ハイブリッド」の「e‑POWER」が米国ワーズ社の「10ベストエンジン＆推進システム」に選出",
     "cat": "未分類",
-    "date": "2026-10-13",
-    "type": "発表",
-    "summary": "WEC 2026年シーズン 第7戦 バルセロナ6時間 ： プレビュー\nTOYOTA RACING、タイトル獲得に向け重要な一戦に挑む（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-10-14",
+    "type": "新型",
+    "summary": "新型「ローグ ハイブリッド」の「e‑POWER」が米国ワーズ社の「10ベストエンジン＆推進システム」に選出（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-preview/text",
+    "source": "https://global.nissannews.com/ja-JP/releases/261014-00-j",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://global.nissannews.com/ja-JP/releases/261014-00-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は、13日（米国時間）、新型「ローグ ハイブリッド」に搭載した「e‑POWER」が、米国の自動車専門メディアであるワーズ社の2026年「10ベストエンジン＆推進システム」に選出されたと発表しました。",
+    "cat": "未分類",
+    "date": "2026-10-14",
+    "type": "新型",
+    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は、13日（米国時間）、新型「ローグ ハイブリッド」に搭載した「e‑POWER」が、米国の自動車専門メディアであるワーズ社の2026年「10ベストエンジン＆推進システム」に選出されたと発表しました。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/261014-00-j",
     "market": "国内",
     "auto": true
   }

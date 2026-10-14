@@ -1626,5 +1626,20 @@
     "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-preview/text",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 115,
+    "maker": "nissan",
+    "name": "新型「ローグ ハイブリッド」の「e‑POWER」が米国ワーズ社の「10ベストエンジン＆推進システム」に選出",
+    "cat": "未分類",
+    "date": "2026-10-14",
+    "type": "新型",
+    "summary": "新型「ローグ ハイブリッド」の「e‑POWER」が米国ワーズ社の「10ベストエンジン＆推進システム」に選出（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/261014-00-j",
+    "market": "国内",
+    "auto": true
   }
 ]
