@@ -1641,5 +1641,50 @@
     "source": "https://global.nissannews.com/ja-JP/releases/261014-00-j",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 116,
+    "maker": "honda",
+    "name": "STEP WGNに特別仕様車 「STEP WGN e:HEV SPADA･BLACK EDITION」を設定し発売",
+    "cat": "未分類",
+    "date": "2026-10-16",
+    "type": "発売",
+    "summary": "STEP WGNに特別仕様車 「STEP WGN e:HEV SPADA･BLACK EDITION」を設定し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4261015-stepwgn.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 117,
+    "maker": "honda",
+    "name": "STEP WGN e:HEV SPADAに特別仕様車 BLACK EDITION登場。",
+    "cat": "未分類",
+    "date": "2026-10-16",
+    "type": "発表",
+    "summary": "STEP WGN e:HEV SPADAに特別仕様車 BLACK EDITION登場。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.honda.co.jp/STEPWGN/webcatalog/type/spada_black/?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 118,
+    "maker": "mazda",
+    "name": "2026.10.15\n\n                                                                            企業情報\n                                                                    \n\n\n\n                                                                        マツダと矢崎総業、ワイヤーハーネス生産の近場化・自動化に向けた共創の成果を新型「MAZDA CX-5」に初採用 [PDF形式]\n                                                                    \n―強靱なサプライチェーン構築と持続可能なものづくりの実現に向けて―",
+    "cat": "未分類",
+    "date": "2026-10-16",
+    "type": "新型",
+    "summary": "2026.10.15\n\n                                                                            企業情報\n                                                                    \n\n\n\n                                                                        マツダと矢崎総業、ワイヤーハーネス生産の近場化・自動化に向けた共創の成果を新型「MAZDA CX-5」に初採用 [PDF形式]\n                                                                    \n―強靱なサプライチェーン構築と持続可能なものづくりの実現に向けて―（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261015a.pdf                                                        ",
+    "market": "国内",
+    "auto": true
   }
 ]
