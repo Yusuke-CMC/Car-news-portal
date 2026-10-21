@@ -1,49 +1,33 @@
 [
   {
-    "_uid": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-race/text",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "WEC 2026年シーズン 第7戦 バルセロナ6時間 ： 決勝\nTOYOTA RACING、1-2フィニッシュでマニュファクチャラーズタイトルを決める",
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261021_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年10月21日三菱自動車、新型『パジェロ』を鳥取砂丘月面実証フィールド「ルナテラス」で走行試験（別ウィンドウで開く）",
     "cat": "未分類",
-    "date": "2026-10-19",
-    "type": "発表",
-    "summary": "WEC 2026年シーズン 第7戦 バルセロナ6時間 ： 決勝\nTOYOTA RACING、1-2フィニッシュでマニュファクチャラーズタイトルを決める（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-10-21",
+    "type": "新型",
+    "summary": "2026年10月21日三菱自動車、新型『パジェロ』を鳥取砂丘月面実証フィールド「ルナテラス」で走行試験（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-race/text",
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261021_1.html",
     "market": "国内",
     "auto": true
   },
   {
-    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261019_1.html",
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261021_1.html",
     "_source_maker": "mitsubishi",
     "maker": "mitsubishi",
-    "name": "2026年10月19日三菱自動車、新型クロスカントリーSUV『パジェロ』をタイで発売（別ウィンドウで開く）",
+    "name": "2026年10月21日三菱自動車、新型『パジェロ』を鳥取砂丘月面実証フィールド「ルナテラス」で走行試験（別ウィンドウで開く）商品・技術情報",
     "cat": "未分類",
-    "date": "2026-10-19",
+    "date": "2026-10-21",
     "type": "新型",
-    "summary": "2026年10月19日三菱自動車、新型クロスカントリーSUV『パジェロ』をタイで発売（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "summary": "2026年10月21日三菱自動車、新型『パジェロ』を鳥取砂丘月面実証フィールド「ルナテラス」で走行試験（別ウィンドウで開く）商品・技術情報（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261019_1.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261019_1.html",
-    "_source_maker": "mitsubishi",
-    "maker": "mitsubishi",
-    "name": "2026年10月19日三菱自動車、新型クロスカントリーSUV『パジェロ』をタイで発売（別ウィンドウで開く）商品・技術情報",
-    "cat": "未分類",
-    "date": "2026-10-19",
-    "type": "新型",
-    "summary": "2026年10月19日三菱自動車、新型クロスカントリーSUV『パジェロ』をタイで発売（別ウィンドウで開く）商品・技術情報（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261019_1.html",
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261021_1.html",
     "market": "国内",
     "auto": true
   }
