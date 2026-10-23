@@ -1731,5 +1731,35 @@
     "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261021_1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 122,
+    "maker": "lexus",
+    "name": "LEXUS、「LBX」を一部改良",
+    "cat": "未分類",
+    "date": "2026-10-22",
+    "type": "一部改良",
+    "summary": "LEXUS、「LBX」を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/lexus/44911793.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 123,
+    "maker": "honda",
+    "name": "「VEZEL」をマイナーモデルチェンジし発売",
+    "cat": "未分類",
+    "date": "2026-10-23",
+    "type": "発売",
+    "summary": "「VEZEL」をマイナーモデルチェンジし発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4261022-vezel.html?from=RSS",
+    "market": "国内",
+    "auto": true
   }
 ]
