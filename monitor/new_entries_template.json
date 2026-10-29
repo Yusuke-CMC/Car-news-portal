@@ -1,17 +1,33 @@
 [
   {
-    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261027a.html                                                        ",
-    "_source_maker": "mazda",
-    "maker": "mazda",
-    "name": "2026.10.27\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」で採用の「Google搭載」がAIアシスタント「Google Gemini」に対応\n                                                                    \n－自然な対話による新たな移動体験で、「走る歓び」をさらに進化－",
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261029_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年10月29日三菱自動車、新型『パジェロ』を12月17日に発売（別ウィンドウで開く）",
     "cat": "未分類",
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "type": "新型",
-    "summary": "2026.10.27\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」で採用の「Google搭載」がAIアシスタント「Google Gemini」に対応\n                                                                    \n－自然な対話による新たな移動体験で、「走る歓び」をさらに進化－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "summary": "2026年10月29日三菱自動車、新型『パジェロ』を12月17日に発売（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261027a.html                                                        ",
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261029_1.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261029_1.html",
+    "_source_maker": "mitsubishi",
+    "maker": "mitsubishi",
+    "name": "2026年10月29日三菱自動車、新型『パジェロ』を12月17日に発売（別ウィンドウで開く）商品・技術情報",
+    "cat": "未分類",
+    "date": "2026-10-29",
+    "type": "新型",
+    "summary": "2026年10月29日三菱自動車、新型『パジェロ』を12月17日に発売（別ウィンドウで開く）商品・技術情報（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261029_1.html",
     "market": "国内",
     "auto": true
   }
