@@ -1806,5 +1806,35 @@
     "source": "https://www.daihatsu.com/jp/news/2026/20261102-1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 127,
+    "maker": "toyota",
+    "name": "クラウン（エステート）を一部改良",
+    "cat": "未分類",
+    "date": "2026-11-02",
+    "type": "一部改良",
+    "summary": "クラウン（エステート）を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44936557.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 128,
+    "maker": "toyota",
+    "name": "RAV4を一部改良",
+    "cat": "未分類",
+    "date": "2026-11-02",
+    "type": "一部改良",
+    "summary": "RAV4を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/toyota/44936457.html",
+    "market": "国内",
+    "auto": true
   }
 ]
