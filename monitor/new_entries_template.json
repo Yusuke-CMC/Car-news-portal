@@ -1,33 +1,17 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44936557.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "クラウン（エステート）を一部改良",
+    "_uid": "https://global.nissannews.com/ja-JP/releases/261105-01-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は5日、ミニバン「セレナ」の一部仕様変更を行うとともに、最上級グレードである「LUXION」を、よりお求めやすい価格へと改定し、同日より発売します。さらに、発売35周年を記念し、ブラックを基調とした専用内外装を採用した特別仕様車「Black Edition」を期間限定で発売します。",
     "cat": "未分類",
-    "date": "2026-11-02",
-    "type": "一部改良",
-    "summary": "クラウン（エステート）を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-11-05",
+    "type": "一部仕様変更",
+    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は5日、ミニバン「セレナ」の一部仕様変更を行うとともに、最上級グレードである「LUXION」を、よりお求めやすい価格へと改定し、同日より発売します。さらに、発売35周年を記念し、ブラックを基調とした専用内外装を採用した特別仕様車「Black Edition」を期間限定で発売します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/toyota/44936557.html",
-    "market": "国内",
-    "auto": true
-  },
-  {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44936457.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "RAV4を一部改良",
-    "cat": "未分類",
-    "date": "2026-11-02",
-    "type": "一部改良",
-    "summary": "RAV4を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
-    "specs": {
-      "情報源": "自動検知（詳細未確認）"
-    },
-    "source": "https://global.toyota/jp/newsroom/toyota/44936457.html",
+    "source": "https://global.nissannews.com/ja-JP/releases/261105-01-j",
     "market": "国内",
     "auto": true
   }
