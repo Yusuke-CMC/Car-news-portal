@@ -1851,5 +1851,20 @@
     "source": "https://global.nissannews.com/ja-JP/releases/261105-01-j",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 130,
+    "maker": "toyota",
+    "name": "WEC 2026年シーズン 第8戦 モンツァ6時間レース ： 決勝\nTOYOTA RACING、8号車がドライバーチャンピオンシップを獲得",
+    "cat": "未分類",
+    "date": "2026-11-09",
+    "type": "発表",
+    "summary": "WEC 2026年シーズン 第8戦 モンツァ6時間レース ： 決勝\nTOYOTA RACING、8号車がドライバーチャンピオンシップを獲得（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-monza-race/text",
+    "market": "国内",
+    "auto": true
   }
 ]
