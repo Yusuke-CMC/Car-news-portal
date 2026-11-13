@@ -1881,5 +1881,20 @@
     "source": "https://global.nissannews.com/ja-JP/releases/261112-01-j",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 132,
+    "maker": "lexus",
+    "name": "LEXUS、「RZ」を一部改良",
+    "cat": "未分類",
+    "date": "2026-11-12",
+    "type": "一部改良",
+    "summary": "LEXUS、「RZ」を一部改良（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/lexus/44972971.html",
+    "market": "国内",
+    "auto": true
   }
 ]
