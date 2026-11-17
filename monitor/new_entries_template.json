@@ -1,17 +1,33 @@
 [
   {
-    "_uid": "https://www.daihatsu.com/jp/news/2026/20261116-1.html",
-    "_source_maker": "daihatsu",
-    "maker": "daihatsu",
-    "name": "2026/11/16\n製品・技術\n車（モデル）\n「ロッキー」にアウトドア感を際立たせた特別仕様車「パワフル」を設定するとともにハイブリッド車の静粛性・燃費性能を向上",
+    "_uid": "https://global.toyota/jp/newsroom/toyota/44986493.html",
+    "_source_maker": "toyota",
+    "maker": "toyota",
+    "name": "ライズを一部改良するとともに、特別仕様車 Z“POWERFUL”を設定",
     "cat": "未分類",
     "date": "2026-11-16",
-    "type": "発表",
-    "summary": "2026/11/16\n製品・技術\n車（モデル）\n「ロッキー」にアウトドア感を際立たせた特別仕様車「パワフル」を設定するとともにハイブリッド車の静粛性・燃費性能を向上（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "type": "一部改良",
+    "summary": "ライズを一部改良するとともに、特別仕様車 Z“POWERFUL”を設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://www.daihatsu.com/jp/news/2026/20261116-1.html",
+    "source": "https://global.toyota/jp/newsroom/toyota/44986493.html",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://global.nissannews.com/ja-JP/releases/261116-01-j",
+    "_source_maker": "nissan",
+    "maker": "nissan",
+    "name": "日産自動車株式会社と日産モータースポーツ＆カスタマイズ株式会社は、2026年12月6日（日）に富士スピードウェイにおいて、「NISMO Festival at Fuji Speedway 2026」を開催します。2年ぶりの開催となる今回は、長年にわたりモータースポーツを通じて培ってきたNISMOブランドの歴史と技術、そして未来への挑戦を体感いただける様々なプログラムを展開します。また、ABB FIA Formula E世界選手権2026/27シーズンから導入される次世代車両「GEN4」の日産フォーミュラEチームの新カラーリングを世界初公開します。",
+    "cat": "未分類",
+    "date": "2026-11-16",
+    "type": "発表",
+    "summary": "日産自動車株式会社と日産モータースポーツ＆カスタマイズ株式会社は、2026年12月6日（日）に富士スピードウェイにおいて、「NISMO Festival at Fuji Speedway 2026」を開催します。2年ぶりの開催となる今回は、長年にわたりモータースポーツを通じて培ってきたNISMOブランドの歴史と技術、そして未来への挑戦を体感いただける様々なプログラムを展開します。また、ABB FIA Formula E世界選手権2026/27シーズンから導入される次世代車両「GEN4」の日産フォーミュラEチームの新カラーリングを世界初公開します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/261116-01-j",
     "market": "国内",
     "auto": true
   }
