@@ -1,33 +1,49 @@
 [
   {
-    "_uid": "https://global.toyota/jp/newsroom/toyota/44986493.html",
-    "_source_maker": "toyota",
-    "maker": "toyota",
-    "name": "ライズを一部改良するとともに、特別仕様車 Z“POWERFUL”を設定",
+    "_uid": "https://www.honda.co.jp/FREED/?from=RSS",
+    "_source_maker": "honda",
+    "maker": "honda",
+    "name": "FREEDを一部改良し発売",
     "cat": "未分類",
-    "date": "2026-11-16",
+    "date": "2026-11-19",
     "type": "一部改良",
-    "summary": "ライズを一部改良するとともに、特別仕様車 Z“POWERFUL”を設定（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "summary": "FREEDを一部改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.toyota/jp/newsroom/toyota/44986493.html",
+    "source": "https://www.honda.co.jp/FREED/?from=RSS",
     "market": "国内",
     "auto": true
   },
   {
-    "_uid": "https://global.nissannews.com/ja-JP/releases/261116-01-j",
-    "_source_maker": "nissan",
-    "maker": "nissan",
-    "name": "日産自動車株式会社と日産モータースポーツ＆カスタマイズ株式会社は、2026年12月6日（日）に富士スピードウェイにおいて、「NISMO Festival at Fuji Speedway 2026」を開催します。2年ぶりの開催となる今回は、長年にわたりモータースポーツを通じて培ってきたNISMOブランドの歴史と技術、そして未来への挑戦を体感いただける様々なプログラムを展開します。また、ABB FIA Formula E世界選手権2026/27シーズンから導入される次世代車両「GEN4」の日産フォーミュラEチームの新カラーリングを世界初公開します。",
+    "_uid": "https://global.honda/jp/news/2026/4261119-freed.html?from=RSS",
+    "_source_maker": "honda",
+    "maker": "honda",
+    "name": "「FREED」を一部改良し発売～特別仕様車「BLACK STYLE」を設定し、AIR EXに5人乗り仕様を追加～",
     "cat": "未分類",
-    "date": "2026-11-16",
-    "type": "発表",
-    "summary": "日産自動車株式会社と日産モータースポーツ＆カスタマイズ株式会社は、2026年12月6日（日）に富士スピードウェイにおいて、「NISMO Festival at Fuji Speedway 2026」を開催します。2年ぶりの開催となる今回は、長年にわたりモータースポーツを通じて培ってきたNISMOブランドの歴史と技術、そして未来への挑戦を体感いただける様々なプログラムを展開します。また、ABB FIA Formula E世界選手権2026/27シーズンから導入される次世代車両「GEN4」の日産フォーミュラEチームの新カラーリングを世界初公開します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "date": "2026-11-19",
+    "type": "一部改良",
+    "summary": "「FREED」を一部改良し発売～特別仕様車「BLACK STYLE」を設定し、AIR EXに5人乗り仕様を追加～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
     "specs": {
       "情報源": "自動検知（詳細未確認）"
     },
-    "source": "https://global.nissannews.com/ja-JP/releases/261116-01-j",
+    "source": "https://global.honda/jp/news/2026/4261119-freed.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "_uid": "https://newsroom.mazda.com/ja/publicity/release/2026/202611/261119a.html                                                        ",
+    "_source_maker": "mazda",
+    "maker": "mazda",
+    "name": "2026.11.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」が独「ゴールデンステアリングホイール賞」を受賞\n                                                                    \n－CX-5として初、マツダ車としては7年ぶりの受賞－",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "新型",
+    "summary": "2026.11.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」が独「ゴールデンステアリングホイール賞」を受賞\n                                                                    \n－CX-5として初、マツダ車としては7年ぶりの受賞－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202611/261119a.html                                                        ",
     "market": "国内",
     "auto": true
   }

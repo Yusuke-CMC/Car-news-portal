@@ -1941,5 +1941,50 @@
     "source": "https://global.nissannews.com/ja-JP/releases/261116-01-j",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 136,
+    "maker": "honda",
+    "name": "FREEDを一部改良し発売",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "一部改良",
+    "summary": "FREEDを一部改良し発売（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.honda.co.jp/FREED/?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 137,
+    "maker": "honda",
+    "name": "「FREED」を一部改良し発売～特別仕様車「BLACK STYLE」を設定し、AIR EXに5人乗り仕様を追加～",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "一部改良",
+    "summary": "「FREED」を一部改良し発売～特別仕様車「BLACK STYLE」を設定し、AIR EXに5人乗り仕様を追加～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4261119-freed.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 138,
+    "maker": "mazda",
+    "name": "2026.11.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」が独「ゴールデンステアリングホイール賞」を受賞\n                                                                    \n－CX-5として初、マツダ車としては7年ぶりの受賞－",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "新型",
+    "summary": "2026.11.19\n\n                                                                            クルマ・技術\n                                                                    \n\n\n\n                                                                        新型「MAZDA CX-5」が独「ゴールデンステアリングホイール賞」を受賞\n                                                                    \n－CX-5として初、マツダ車としては7年ぶりの受賞－（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202611/261119a.html                                                        ",
+    "market": "国内",
+    "auto": true
   }
 ]
