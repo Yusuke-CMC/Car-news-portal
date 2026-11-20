@@ -1986,5 +1986,80 @@
     "source": "https://newsroom.mazda.com/ja/publicity/release/2026/202611/261119a.html                                                        ",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 139,
+    "maker": "toyota",
+    "name": "GAZOO Racing TOYOTA、ダカールラリー2027の参戦体制を発表\n2カテゴリーでのダカール制覇を目指す",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "発表",
+    "summary": "GAZOO Racing TOYOTA、ダカールラリー2027の参戦体制を発表\n2カテゴリーでのダカール制覇を目指す（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://toyotagazooracing.com/jp/dakar/release/2026/1119-01/",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 140,
+    "maker": "honda",
+    "name": "新型SUV「AVANCIER」を世界初公開 ～次世代ハイブリッドシステムHonda Hybridや新たなHマークを採用～",
+    "cat": "未分類",
+    "date": "2026-11-20",
+    "type": "新型",
+    "summary": "新型SUV「AVANCIER」を世界初公開 ～次世代ハイブリッドシステムHonda Hybridや新たなHマークを採用～（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.honda/jp/news/2026/4261120.html?from=RSS",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 141,
+    "maker": "nissan",
+    "name": "新型「ローグ ハイブリッド」が、米国の「North American Utility Vehicle of the Year」のファイナリストに選出",
+    "cat": "未分類",
+    "date": "2026-11-20",
+    "type": "新型",
+    "summary": "新型「ローグ ハイブリッド」が、米国の「North American Utility Vehicle of the Year」のファイナリストに選出（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/261120-01-j",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 142,
+    "maker": "nissan",
+    "name": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は19日、「ルークス」の一部仕様を向上し、同日より発売します。あわせて、「エクストレイル」や「キックス」で好評の「ROCK CREEK」を新たにラインアップに追加し、同日より発売します。",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "発売",
+    "summary": "日産自動車株式会社（本社：神奈川県横浜市西区、社長：イヴァン エスピノーサ）は19日、「ルークス」の一部仕様を向上し、同日より発売します。あわせて、「エクストレイル」や「キックス」で好評の「ROCK CREEK」を新たにラインアップに追加し、同日より発売します。（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.nissannews.com/ja-JP/releases/261119-01-j",
+    "market": "国内",
+    "auto": true
+  },
+  {
+    "id": 143,
+    "maker": "mitsubishi",
+    "name": "2026年11月19日三菱自動車、『デリカD:5』の特別仕様車「CHAMONIX（シャモニー）」を発売（別ウィンドウで開く）",
+    "cat": "未分類",
+    "date": "2026-11-19",
+    "type": "発売",
+    "summary": "2026年11月19日三菱自動車、『デリカD:5』の特別仕様車「CHAMONIX（シャモニー）」を発売（別ウィンドウで開く）（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261119_1.html",
+    "market": "国内",
+    "auto": true
   }
 ]
