@@ -2061,5 +2061,20 @@
     "source": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261119_1.html",
     "market": "国内",
     "auto": true
+  },
+  {
+    "id": 144,
+    "maker": "toyota",
+    "name": "ケビン・エストレ、TOYOTA RACINGの2027年ドライバーラインアップに加わる",
+    "cat": "未分類",
+    "date": "2026-11-20",
+    "type": "発表",
+    "summary": "ケビン・エストレ、TOYOTA RACINGの2027年ドライバーラインアップに加わる（自動検知・簡易概要。詳細は公式発表をご確認ください）",
+    "specs": {
+      "情報源": "自動検知（詳細未確認）"
+    },
+    "source": "https://global.toyota/jp/newsroom/corporate/45024813.html",
+    "market": "国内",
+    "auto": true
   }
 ]
